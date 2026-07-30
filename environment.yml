@@ -1,0 +1,13 @@
+name: drinfeld-completeness
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - sage=10.9
+  - python=3.13
+  - numpy
+  - pytest=9.1.1
+  - cxx-compiler
+variables:
+  OPENBLAS_NUM_THREADS: "1"
+  OMP_NUM_THREADS: "1"

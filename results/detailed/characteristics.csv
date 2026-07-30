@@ -1,0 +1,1267 @@
+q,p,deg_p,class_count,U,E,levels_scanned,incomplete_levels,largest_incomplete_degree,vectors_visited,result_directory,result_file
+2,T,1,1,1,1,0,0,,0,results/q2,p_T.json
+2,T + 1,1,1,1,1,0,0,,0,results/q2,p_T_1.json
+2,T^2 + T + 1,2,1,1,1,0,0,,0,results/q2,p_T2_T_1.json
+2,T^3 + T + 1,3,3,8,6,40,5,5,147447,results/q2,p_T3_T_1.json
+2,T^3 + T^2 + 1,3,3,8,6,40,5,5,147447,results/q2,p_T3_T2_1.json
+2,T^4 + T + 1,4,5,6,3,13,3,2,12775,results/q2,p_T4_T_1.json
+2,T^4 + T^3 + 1,4,5,6,5,13,6,4,12775,results/q2,p_T4_T3_1.json
+2,T^4 + T^3 + T^2 + T + 1,4,5,6,5,13,6,4,12775,results/q2,p_T4_T3_T2_T_1.json
+2,T^5 + T^2 + 1,5,11,12,10,411,31,9,7929735,results/q2,p_T5_T2_1.json
+2,T^5 + T^3 + 1,5,11,12,10,411,33,9,7929735,results/q2,p_T5_T3_1.json
+2,T^5 + T^3 + T^2 + T + 1,5,11,12,10,411,30,9,7929735,results/q2,p_T5_T3_T2_T_1.json
+2,T^5 + T^4 + T^2 + T + 1,5,11,12,10,411,31,9,7929735,results/q2,p_T5_T4_T2_T_1.json
+2,T^5 + T^4 + T^3 + T + 1,5,11,12,10,411,30,9,7929735,results/q2,p_T5_T4_T3_T_1.json
+2,T^5 + T^4 + T^3 + T^2 + 1,5,11,12,10,411,33,9,7929735,results/q2,p_T5_T4_T3_T2_1.json
+2,T^6 + T + 1,6,21,11,8,225,26,7,57802311,results/q2,p_T6_T_1.json
+2,T^6 + T^3 + 1,6,21,11,8,225,28,7,57802311,results/q2,p_T6_T3_1.json
+2,T^6 + T^4 + T^2 + T + 1,6,21,11,8,225,26,7,57802311,results/q2,p_T6_T4_T2_T_1.json
+2,T^6 + T^4 + T^3 + T + 1,6,21,11,8,225,28,7,57802311,results/q2,p_T6_T4_T3_T_1.json
+2,T^6 + T^5 + 1,6,21,11,9,225,30,8,57802311,results/q2,p_T6_T5_1.json
+2,T^6 + T^5 + T^2 + T + 1,6,21,11,9,225,30,8,57802311,results/q2,p_T6_T5_T2_T_1.json
+2,T^6 + T^5 + T^3 + T^2 + 1,6,21,11,9,225,30,8,57802311,results/q2,p_T6_T5_T3_T2_1.json
+2,T^6 + T^5 + T^4 + T + 1,6,21,11,9,225,33,8,57802311,results/q2,p_T6_T5_T4_T_1.json
+2,T^6 + T^5 + T^4 + T^2 + 1,6,21,11,9,225,33,8,57802311,results/q2,p_T6_T5_T4_T2_1.json
+2,T^7 + T + 1,7,43,16,12,4719,154,11,485738877,results/q2_degree7_compact,p_T7_T_1.compact.json
+2,T^7 + T^3 + 1,7,43,16,12,4719,153,11,508611410,results/q2_degree7_compact,p_T7_T3_1.compact.json
+2,T^7 + T^3 + T^2 + T + 1,7,43,16,12,4719,133,11,474838647,results/q2_degree7_compact,p_T7_T3_T2_T_1.compact.json
+2,T^7 + T^4 + 1,7,43,16,12,4719,156,11,476160964,results/q2_degree7_compact,p_T7_T4_1.compact.json
+2,T^7 + T^4 + T^3 + T^2 + 1,7,43,16,12,4719,148,11,473901599,results/q2_degree7_compact,p_T7_T4_T3_T2_1.compact.json
+2,T^7 + T^5 + T^2 + T + 1,7,43,16,12,4719,151,11,479202412,results/q2_degree7_compact,p_T7_T5_T2_T_1.compact.json
+2,T^7 + T^5 + T^3 + T + 1,7,43,16,12,4719,158,11,488280059,results/q2_degree7_compact,p_T7_T5_T3_T_1.compact.json
+2,T^7 + T^5 + T^4 + T^3 + 1,7,43,16,14,4719,148,13,478509630,results/q2_degree7_compact,p_T7_T5_T4_T3_1.compact.json
+2,T^7 + T^5 + T^4 + T^3 + T^2 + T + 1,7,43,16,12,4719,146,11,468263225,results/q2_degree7_compact,p_T7_T5_T4_T3_T2_T_1.compact.json
+2,T^7 + T^6 + 1,7,43,16,12,4719,158,11,488280059,results/q2_degree7_compact,p_T7_T6_1.compact.json
+2,T^7 + T^6 + T^3 + T + 1,7,43,16,12,4719,151,11,479202412,results/q2_degree7_compact,p_T7_T6_T3_T_1.compact.json
+2,T^7 + T^6 + T^4 + T + 1,7,43,16,14,4719,148,13,478509630,results/q2_degree7_compact,p_T7_T6_T4_T_1.compact.json
+2,T^7 + T^6 + T^4 + T^2 + 1,7,43,16,12,4719,146,11,468263225,results/q2_degree7_compact,p_T7_T6_T4_T2_1.compact.json
+2,T^7 + T^6 + T^5 + T^2 + 1,7,43,16,12,4719,148,11,473901599,results/q2_degree7_compact,p_T7_T6_T5_T2_1.compact.json
+2,T^7 + T^6 + T^5 + T^3 + T^2 + T + 1,7,43,16,12,4719,156,11,476160964,results/q2_degree7_compact,p_T7_T6_T5_T3_T2_T_1.compact.json
+2,T^7 + T^6 + T^5 + T^4 + 1,7,43,16,12,4719,153,11,508611410,results/q2_degree7_compact,p_T7_T6_T5_T4_1.compact.json
+2,T^7 + T^6 + T^5 + T^4 + T^2 + T + 1,7,43,16,12,4719,133,11,474838647,results/q2_degree7_compact,p_T7_T6_T5_T4_T2_T_1.compact.json
+2,T^7 + T^6 + T^5 + T^4 + T^3 + T^2 + 1,7,43,16,12,4719,154,11,482985984,results/q2_degree7_compact,p_T7_T6_T5_T4_T3_T2_1.compact.json
+3,T,1,1,1,1,0,0,,0,results/q3,p_T.json
+3,T + 1,1,1,1,1,0,0,,0,results/q3,p_T_1.json
+3,T + 2,1,1,1,1,0,0,,0,results/q3,p_T_2.json
+3,T^2 + 1,2,1,1,1,0,0,,0,results/q3,p_T2_1.json
+3,T^2 + 2*T + 2,2,1,1,1,0,0,,0,results/q3,p_T2_2_T_2.json
+3,T^2 + T + 2,2,1,1,1,0,0,,0,results/q3,p_T2_T_2.json
+3,T^3 + 2*T + 1,3,4,6,4,79,9,3,944768,results/q3,p_T3_2_T_1.json
+3,T^3 + 2*T + 2,3,4,6,4,79,9,3,944768,results/q3,p_T3_2_T_2.json
+3,T^3 + 2*T^2 + 1,3,4,6,4,79,13,3,944768,results/q3,p_T3_2_T2_1.json
+3,T^3 + 2*T^2 + 2*T + 2,3,4,6,4,79,13,3,944768,results/q3,p_T3_2_T2_2_T_2.json
+3,T^3 + 2*T^2 + T + 1,3,4,6,4,79,13,3,944768,results/q3,p_T3_2_T2_T_1.json
+3,T^3 + T^2 + 2,3,4,6,4,79,13,3,944768,results/q3,p_T3_T2_2.json
+3,T^3 + T^2 + 2*T + 1,3,4,6,4,79,13,3,944768,results/q3,p_T3_T2_2_T_1.json
+3,T^3 + T^2 + T + 2,3,4,6,4,79,13,3,944768,results/q3,p_T3_T2_T_2.json
+3,T^4 + 2*T + 2,4,10,6,5,79,15,4,1968200,results/q3,p_T4_2_T_2.json
+3,T^4 + 2*T^2 + 2,4,10,6,4,79,14,3,1968200,results/q3,p_T4_2_T2_2.json
+3,T^4 + 2*T^3 + 2,4,10,6,5,79,15,4,1968200,results/q3,p_T4_2_T3_2.json
+3,T^4 + 2*T^3 + 2*T^2 + T + 2,4,10,6,4,79,14,3,1968200,results/q3,p_T4_2_T3_2_T2_T_2.json
+3,T^4 + 2*T^3 + T + 1,4,10,6,5,79,15,4,1968200,results/q3,p_T4_2_T3_T_1.json
+3,T^4 + 2*T^3 + T^2 + 1,4,10,6,5,79,14,4,1968200,results/q3,p_T4_2_T3_T2_1.json
+3,T^4 + 2*T^3 + T^2 + 2*T + 1,4,10,6,4,79,10,3,1968200,results/q3,p_T4_2_T3_T2_2_T_1.json
+3,T^4 + 2*T^3 + T^2 + T + 2,4,10,6,4,79,10,3,1968200,results/q3,p_T4_2_T3_T2_T_2.json
+3,T^4 + T + 2,4,10,6,5,79,15,4,1968200,results/q3,p_T4_T_2.json
+3,T^4 + T^2 + 2,4,10,6,5,79,14,4,1968200,results/q3,p_T4_T2_2.json
+3,T^4 + T^2 + 2*T + 1,4,10,6,4,79,10,3,1968200,results/q3,p_T4_T2_2_T_1.json
+3,T^4 + T^2 + T + 1,4,10,6,4,79,10,3,1968200,results/q3,p_T4_T2_T_1.json
+3,T^4 + T^3 + 2,4,10,6,5,79,15,4,1968200,results/q3,p_T4_T3_2.json
+3,T^4 + T^3 + 2*T + 1,4,10,6,5,79,15,4,1968200,results/q3,p_T4_T3_2_T_1.json
+3,T^4 + T^3 + 2*T^2 + 2*T + 2,4,10,6,4,79,14,3,1968200,results/q3,p_T4_T3_2_T2_2_T_2.json
+3,T^4 + T^3 + T^2 + 1,4,10,6,5,79,14,4,1968200,results/q3,p_T4_T3_T2_1.json
+3,T^4 + T^3 + T^2 + 2*T + 2,4,10,6,4,79,10,3,1968200,results/q3,p_T4_T3_T2_2_T_2.json
+3,T^4 + T^3 + T^2 + T + 1,4,10,6,4,79,10,3,1968200,results/q3,p_T4_T3_T2_T_1.json
+3,T^5 + 2*T + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T_1.json
+3,T^5 + 2*T + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T_2.json
+3,T^5 + 2*T^2 + T + 1,5,31,10,8,3501,147,7,808320800,results/q3_degree5,p_T5_2_T2_T_1.json
+3,T^5 + 2*T^3 + 2*T^2 + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T3_2_T2_2.json
+3,T^5 + 2*T^3 + 2*T^2 + 2*T + 1,5,31,10,8,3501,134,7,808320800,results/q3_degree5,p_T5_2_T3_2_T2_2_T_1.json
+3,T^5 + 2*T^3 + 2*T^2 + T + 1,5,31,10,8,3501,154,7,808320800,results/q3_degree5,p_T5_2_T3_2_T2_T_1.json
+3,T^5 + 2*T^3 + T^2 + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T3_T2_1.json
+3,T^5 + 2*T^3 + T^2 + 2*T + 2,5,31,10,8,3501,134,7,808320800,results/q3_degree5,p_T5_2_T3_T2_2_T_2.json
+3,T^5 + 2*T^3 + T^2 + T + 2,5,31,10,8,3501,154,7,808320800,results/q3_degree5,p_T5_2_T3_T2_T_2.json
+3,T^5 + 2*T^4 + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T4_1.json
+3,T^5 + 2*T^4 + 2*T + 2,5,31,10,8,3501,134,7,808320800,results/q3_degree5,p_T5_2_T4_2_T_2.json
+3,T^5 + 2*T^4 + 2*T^2 + 2,5,31,10,8,3501,134,7,808320800,results/q3_degree5,p_T5_2_T4_2_T2_2.json
+3,T^5 + 2*T^4 + 2*T^2 + 2*T + 1,5,31,10,8,3501,154,7,808320800,results/q3_degree5,p_T5_2_T4_2_T2_2_T_1.json
+3,T^5 + 2*T^4 + 2*T^2 + T + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T4_2_T2_T_2.json
+3,T^5 + 2*T^4 + 2*T^3 + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T4_2_T3_2.json
+3,T^5 + 2*T^4 + 2*T^3 + 2*T + 1,5,31,10,8,3501,143,7,808320800,results/q3_degree5,p_T5_2_T4_2_T3_2_T_1.json
+3,T^5 + 2*T^4 + 2*T^3 + 2*T^2 + 1,5,31,10,8,3501,143,7,808320800,results/q3_degree5,p_T5_2_T4_2_T3_2_T2_1.json
+3,T^5 + 2*T^4 + 2*T^3 + 2*T^2 + T + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T4_2_T3_2_T2_T_2.json
+3,T^5 + 2*T^4 + 2*T^3 + T^2 + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T4_2_T3_T2_1.json
+3,T^5 + 2*T^4 + 2*T^3 + T^2 + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T4_2_T3_T2_2.json
+3,T^5 + 2*T^4 + T + 1,5,31,10,8,3501,154,7,808320800,results/q3_degree5,p_T5_2_T4_T_1.json
+3,T^5 + 2*T^4 + T^3 + 2*T^2 + 2*T + 2,5,31,10,8,3501,147,7,808320800,results/q3_degree5,p_T5_2_T4_T3_2_T2_2_T_2.json
+3,T^5 + 2*T^4 + T^3 + T + 2,5,31,10,8,3501,147,7,808320800,results/q3_degree5,p_T5_2_T4_T3_T_2.json
+3,T^5 + 2*T^4 + T^3 + T^2 + T + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T4_T3_T2_T_1.json
+3,T^5 + 2*T^4 + T^3 + T^2 + T + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_2_T4_T3_T2_T_2.json
+3,T^5 + T^2 + T + 2,5,31,10,8,3501,147,7,808320800,results/q3_degree5,p_T5_T2_T_2.json
+3,T^5 + T^3 + 2*T^2 + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T3_2_T2_1.json
+3,T^5 + T^3 + 2*T^2 + 2*T + 1,5,31,10,8,3501,143,7,808320800,results/q3_degree5,p_T5_T3_2_T2_2_T_1.json
+3,T^5 + T^3 + T + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T3_T_1.json
+3,T^5 + T^3 + T + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T3_T_2.json
+3,T^5 + T^3 + T^2 + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T3_T2_2.json
+3,T^5 + T^3 + T^2 + 2*T + 2,5,31,10,8,3501,143,7,808320800,results/q3_degree5,p_T5_T3_T2_2_T_2.json
+3,T^5 + T^4 + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T4_2.json
+3,T^5 + T^4 + 2*T + 1,5,31,10,8,3501,134,7,808320800,results/q3_degree5,p_T5_T4_2_T_1.json
+3,T^5 + T^4 + 2*T^3 + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T4_2_T3_1.json
+3,T^5 + T^4 + 2*T^3 + 2*T + 2,5,31,10,8,3501,143,7,808320800,results/q3_degree5,p_T5_T4_2_T3_2_T_2.json
+3,T^5 + T^4 + 2*T^3 + 2*T^2 + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T4_2_T3_2_T2_1.json
+3,T^5 + T^4 + 2*T^3 + 2*T^2 + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T4_2_T3_2_T2_2.json
+3,T^5 + T^4 + 2*T^3 + T^2 + 2,5,31,10,8,3501,143,7,808320800,results/q3_degree5,p_T5_T4_2_T3_T2_2.json
+3,T^5 + T^4 + 2*T^3 + T^2 + T + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T4_2_T3_T2_T_1.json
+3,T^5 + T^4 + T + 2,5,31,10,8,3501,154,7,808320800,results/q3_degree5,p_T5_T4_T_2.json
+3,T^5 + T^4 + T^2 + 1,5,31,10,8,3501,134,7,808320800,results/q3_degree5,p_T5_T4_T2_1.json
+3,T^5 + T^4 + T^2 + 2*T + 2,5,31,10,8,3501,154,7,808320800,results/q3_degree5,p_T5_T4_T2_2_T_2.json
+3,T^5 + T^4 + T^2 + T + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T4_T2_T_1.json
+3,T^5 + T^4 + T^3 + 2*T^2 + T + 1,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T4_T3_2_T2_T_1.json
+3,T^5 + T^4 + T^3 + 2*T^2 + T + 2,5,31,10,8,3501,151,7,808320800,results/q3_degree5,p_T5_T4_T3_2_T2_T_2.json
+3,T^5 + T^4 + T^3 + T + 1,5,31,10,8,3501,147,7,808320800,results/q3_degree5,p_T5_T4_T3_T_1.json
+3,T^5 + T^4 + T^3 + T^2 + 2*T + 1,5,31,10,8,3501,147,7,808320800,results/q3_degree5,p_T5_T4_T3_T2_2_T_1.json
+4,T,1,1,1,1,0,0,,0,results/q4,p_T.json
+4,T + 1,1,1,1,1,0,0,,0,results/q4,p_T_1.json
+4,T + a,1,1,1,1,0,0,,0,results/q4,p_T_a.json
+4,T + a + 1,1,1,1,1,0,0,,0,results/q4,p_T_ap1.json
+4,T^2 + (a + 1)*T + 1,2,1,1,1,0,0,,0,results/q4,p_T2_ap1_T_1.json
+4,T^2 + (a + 1)*T + a + 1,2,1,1,1,0,0,,0,results/q4,p_T2_ap1_T_ap1.json
+4,T^2 + T + a,2,1,1,1,0,0,,0,results/q4,p_T2_T_a.json
+4,T^2 + T + a + 1,2,1,1,1,0,0,,0,results/q4,p_T2_T_ap1.json
+4,T^2 + a*T + 1,2,1,1,1,0,0,,0,results/q4,p_T2_a_T_1.json
+4,T^2 + a*T + a,2,1,1,1,0,0,,0,results/q4,p_T2_a_T_a.json
+4,T^3 + (a + 1)*T + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_ap1_T_1.json
+4,T^3 + (a + 1)*T^2 + (a + 1)*T + a + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_ap1_T2_ap1_T_ap1.json
+4,T^3 + (a + 1)*T^2 + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_ap1_T2_1.json
+4,T^3 + (a + 1)*T^2 + T + a,3,5,6,6,293,22,5,1085415,results/q4,p_T3_ap1_T2_T_a.json
+4,T^3 + (a + 1)*T^2 + a*T + a,3,5,6,4,293,22,3,1085415,results/q4,p_T3_ap1_T2_a_T_a.json
+4,T^3 + (a + 1)*T^2 + a*T + a + 1,3,5,6,4,293,22,3,1085415,results/q4,p_T3_ap1_T2_a_T_ap1.json
+4,T^3 + T + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_T_1.json
+4,T^3 + T^2 + (a + 1)*T + a,3,5,6,6,293,22,5,1085415,results/q4,p_T3_T2_ap1_T_a.json
+4,T^3 + T^2 + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_T2_1.json
+4,T^3 + T^2 + T + a,3,5,6,4,293,22,3,1085415,results/q4,p_T3_T2_T_a.json
+4,T^3 + T^2 + T + a + 1,3,5,6,4,293,22,3,1085415,results/q4,p_T3_T2_T_ap1.json
+4,T^3 + T^2 + a*T + a + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_T2_a_T_ap1.json
+4,T^3 + a,3,5,6,4,293,22,3,1085415,results/q4,p_T3_a.json
+4,T^3 + a + 1,3,5,6,4,293,22,3,1085415,results/q4,p_T3_ap1.json
+4,T^3 + a*T + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_a_T_1.json
+4,T^3 + a*T^2 + (a + 1)*T + a,3,5,6,4,293,22,3,1085415,results/q4,p_T3_a_T2_ap1_T_a.json
+4,T^3 + a*T^2 + (a + 1)*T + a + 1,3,5,6,4,293,22,3,1085415,results/q4,p_T3_a_T2_ap1_T_ap1.json
+4,T^3 + a*T^2 + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_a_T2_1.json
+4,T^3 + a*T^2 + T + a + 1,3,5,6,6,293,22,5,1085415,results/q4,p_T3_a_T2_T_ap1.json
+4,T^3 + a*T^2 + a*T + a,3,5,6,6,293,22,5,1085415,results/q4,p_T3_a_T2_a_T_a.json
+4,T^4 + (a + 1)*T^2 + (a + 1)*T + a,4,17,5,4,89,30,3,4734687,results/q4,p_T4_ap1_T2_ap1_T_a.json
+4,T^4 + (a + 1)*T^2 + (a + 1)*T + a + 1,4,17,5,4,89,30,3,4734687,results/q4,p_T4_ap1_T2_ap1_T_ap1.json
+4,T^4 + (a + 1)*T^2 + a*T + 1,4,17,5,4,89,30,3,4734687,results/q4,p_T4_ap1_T2_a_T_1.json
+4,T^4 + (a + 1)*T^2 + a*T + a,4,17,5,4,89,30,3,4734687,results/q4,p_T4_ap1_T2_a_T_a.json
+4,T^4 + (a + 1)*T^3 + (a + 1)*T + a + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_ap1_T3_ap1_T_ap1.json
+4,T^4 + (a + 1)*T^3 + (a + 1)*T^2 + T + a + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_ap1_T3_ap1_T2_T_ap1.json
+4,T^4 + (a + 1)*T^3 + (a + 1)*T^2 + a,4,17,5,5,89,30,4,4734687,results/q4,p_T4_ap1_T3_ap1_T2_a.json
+4,T^4 + (a + 1)*T^3 + (a + 1)*T^2 + a*T + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_ap1_T3_ap1_T2_a_T_1.json
+4,T^4 + (a + 1)*T^3 + (a + 1)*T^2 + a*T + a,4,17,5,5,89,31,4,4734687,results/q4,p_T4_ap1_T3_ap1_T2_a_T_a.json
+4,T^4 + (a + 1)*T^3 + T + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_ap1_T3_T_1.json
+4,T^4 + (a + 1)*T^3 + T + a,4,17,5,5,89,31,4,4734687,results/q4,p_T4_ap1_T3_T_a.json
+4,T^4 + (a + 1)*T^3 + T^2 + (a + 1)*T + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_ap1_T3_T2_ap1_T_1.json
+4,T^4 + (a + 1)*T^3 + T^2 + (a + 1)*T + a,4,17,5,5,89,31,4,4734687,results/q4,p_T4_ap1_T3_T2_ap1_T_a.json
+4,T^4 + (a + 1)*T^3 + T^2 + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_ap1_T3_T2_1.json
+4,T^4 + (a + 1)*T^3 + T^2 + T + a + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_ap1_T3_T2_T_ap1.json
+4,T^4 + (a + 1)*T^3 + a*T + a + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_ap1_T3_a_T_ap1.json
+4,T^4 + (a + 1)*T^3 + a*T^2 + (a + 1)*T + a,4,17,5,5,89,30,4,4734687,results/q4,p_T4_ap1_T3_a_T2_ap1_T_a.json
+4,T^4 + (a + 1)*T^3 + a*T^2 + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_ap1_T3_a_T2_1.json
+4,T^4 + (a + 1)*T^3 + a*T^2 + a,4,17,5,5,89,31,4,4734687,results/q4,p_T4_ap1_T3_a_T2_a.json
+4,T^4 + (a + 1)*T^3 + a*T^2 + a*T + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_ap1_T3_a_T2_a_T_1.json
+4,T^4 + T^2 + (a + 1)*T + 1,4,17,5,4,89,30,3,4734687,results/q4,p_T4_T2_ap1_T_1.json
+4,T^4 + T^2 + (a + 1)*T + a,4,17,5,4,89,30,3,4734687,results/q4,p_T4_T2_ap1_T_a.json
+4,T^4 + T^2 + a*T + 1,4,17,5,4,89,30,3,4734687,results/q4,p_T4_T2_a_T_1.json
+4,T^4 + T^2 + a*T + a + 1,4,17,5,4,89,30,3,4734687,results/q4,p_T4_T2_a_T_ap1.json
+4,T^4 + T^3 + (a + 1)*T + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_T3_ap1_T_1.json
+4,T^4 + T^3 + (a + 1)*T^2 + (a + 1)*T + a,4,17,5,5,89,31,4,4734687,results/q4,p_T4_T3_ap1_T2_ap1_T_a.json
+4,T^4 + T^3 + (a + 1)*T^2 + (a + 1)*T + a + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_T3_ap1_T2_ap1_T_ap1.json
+4,T^4 + T^3 + (a + 1)*T^2 + T + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_T3_ap1_T2_T_1.json
+4,T^4 + T^3 + (a + 1)*T^2 + a,4,17,5,5,89,30,4,4734687,results/q4,p_T4_T3_ap1_T2_a.json
+4,T^4 + T^3 + T + a,4,17,5,5,89,31,4,4734687,results/q4,p_T4_T3_T_a.json
+4,T^4 + T^3 + T + a + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_T3_T_ap1.json
+4,T^4 + T^3 + T^2 + (a + 1)*T + a + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_T3_T2_ap1_T_ap1.json
+4,T^4 + T^3 + T^2 + a,4,17,5,5,89,31,4,4734687,results/q4,p_T4_T3_T2_a.json
+4,T^4 + T^3 + T^2 + a + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_T3_T2_ap1.json
+4,T^4 + T^3 + T^2 + a*T + a,4,17,5,5,89,30,4,4734687,results/q4,p_T4_T3_T2_a_T_a.json
+4,T^4 + T^3 + a*T + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_T3_a_T_1.json
+4,T^4 + T^3 + a*T^2 + T + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_T3_a_T2_T_1.json
+4,T^4 + T^3 + a*T^2 + a + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_T3_a_T2_ap1.json
+4,T^4 + T^3 + a*T^2 + a*T + a,4,17,5,5,89,31,4,4734687,results/q4,p_T4_T3_a_T2_a_T_a.json
+4,T^4 + T^3 + a*T^2 + a*T + a + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_T3_a_T2_a_T_ap1.json
+4,T^4 + a*T^2 + (a + 1)*T + 1,4,17,5,4,89,30,3,4734687,results/q4,p_T4_a_T2_ap1_T_1.json
+4,T^4 + a*T^2 + (a + 1)*T + a + 1,4,17,5,4,89,30,3,4734687,results/q4,p_T4_a_T2_ap1_T_ap1.json
+4,T^4 + a*T^2 + a*T + a,4,17,5,4,89,30,3,4734687,results/q4,p_T4_a_T2_a_T_a.json
+4,T^4 + a*T^2 + a*T + a + 1,4,17,5,4,89,30,3,4734687,results/q4,p_T4_a_T2_a_T_ap1.json
+4,T^4 + a*T^3 + (a + 1)*T + a,4,17,5,5,89,30,4,4734687,results/q4,p_T4_a_T3_ap1_T_a.json
+4,T^4 + a*T^3 + (a + 1)*T^2 + (a + 1)*T + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_a_T3_ap1_T2_ap1_T_1.json
+4,T^4 + a*T^3 + (a + 1)*T^2 + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_a_T3_ap1_T2_1.json
+4,T^4 + a*T^3 + (a + 1)*T^2 + a + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_a_T3_ap1_T2_ap1.json
+4,T^4 + a*T^3 + (a + 1)*T^2 + a*T + a + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_a_T3_ap1_T2_a_T_ap1.json
+4,T^4 + a*T^3 + T + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_a_T3_T_1.json
+4,T^4 + a*T^3 + T + a + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_a_T3_T_ap1.json
+4,T^4 + a*T^3 + T^2 + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_a_T3_T2_1.json
+4,T^4 + a*T^3 + T^2 + T + a,4,17,5,5,89,30,4,4734687,results/q4,p_T4_a_T3_T2_T_a.json
+4,T^4 + a*T^3 + T^2 + a*T + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_a_T3_T2_a_T_1.json
+4,T^4 + a*T^3 + T^2 + a*T + a + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_a_T3_T2_a_T_ap1.json
+4,T^4 + a*T^3 + a*T + a,4,17,5,5,89,30,4,4734687,results/q4,p_T4_a_T3_a_T_a.json
+4,T^4 + a*T^3 + a*T^2 + (a + 1)*T + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_a_T3_a_T2_ap1_T_1.json
+4,T^4 + a*T^3 + a*T^2 + (a + 1)*T + a + 1,4,17,5,5,89,31,4,4734687,results/q4,p_T4_a_T3_a_T2_ap1_T_ap1.json
+4,T^4 + a*T^3 + a*T^2 + T + a,4,17,5,5,89,30,4,4734687,results/q4,p_T4_a_T3_a_T2_T_a.json
+4,T^4 + a*T^3 + a*T^2 + a + 1,4,17,5,5,89,30,4,4734687,results/q4,p_T4_a_T3_a_T2_ap1.json
+5,T,1,1,1,1,0,0,,0,results/q5_low_degree,p_T.json
+5,T + 1,1,1,1,1,0,0,,0,results/q5_low_degree,p_T_1.json
+5,T + 2,1,1,1,1,0,0,,0,results/q5_low_degree,p_T_2.json
+5,T + 3,1,1,1,1,0,0,,0,results/q5_low_degree,p_T_3.json
+5,T + 4,1,1,1,1,0,0,,0,results/q5_low_degree,p_T_4.json
+5,T^2 + 2,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_2.json
+5,T^2 + 2*T + 3,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_2_T_3.json
+5,T^2 + 2*T + 4,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_2_T_4.json
+5,T^2 + 3,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_3.json
+5,T^2 + 3*T + 3,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_3_T_3.json
+5,T^2 + 3*T + 4,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_3_T_4.json
+5,T^2 + 4*T + 1,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_4_T_1.json
+5,T^2 + 4*T + 2,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_4_T_2.json
+5,T^2 + T + 1,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_T_1.json
+5,T^2 + T + 2,2,1,1,1,0,0,,0,results/q5_low_degree,p_T2_T_2.json
+5,T^3 + 2*T + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T_1.compact.json
+5,T^3 + 2*T + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T_4.compact.json
+5,T^3 + 2*T^2 + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T2_1.compact.json
+5,T^3 + 2*T^2 + 2*T + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T2_2_T_2.compact.json
+5,T^3 + 2*T^2 + 2*T + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T2_2_T_3.compact.json
+5,T^3 + 2*T^2 + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T2_3.compact.json
+5,T^3 + 2*T^2 + 4*T + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T2_4_T_2.compact.json
+5,T^3 + 2*T^2 + 4*T + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T2_4_T_4.compact.json
+5,T^3 + 2*T^2 + T + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T2_T_3.compact.json
+5,T^3 + 2*T^2 + T + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_2_T2_T_4.compact.json
+5,T^3 + 3*T + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T_2.compact.json
+5,T^3 + 3*T + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T_3.compact.json
+5,T^3 + 3*T^2 + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T2_2.compact.json
+5,T^3 + 3*T^2 + 2*T + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T2_2_T_2.compact.json
+5,T^3 + 3*T^2 + 2*T + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T2_2_T_3.compact.json
+5,T^3 + 3*T^2 + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T2_4.compact.json
+5,T^3 + 3*T^2 + 4*T + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T2_4_T_1.compact.json
+5,T^3 + 3*T^2 + 4*T + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T2_4_T_3.compact.json
+5,T^3 + 3*T^2 + T + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T2_T_1.compact.json
+5,T^3 + 3*T^2 + T + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_3_T2_T_2.compact.json
+5,T^3 + 4*T + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T_2.compact.json
+5,T^3 + 4*T + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T_3.compact.json
+5,T^3 + 4*T^2 + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T2_3.compact.json
+5,T^3 + 4*T^2 + 3*T + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T2_3_T_1.compact.json
+5,T^3 + 4*T^2 + 3*T + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T2_3_T_4.compact.json
+5,T^3 + 4*T^2 + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T2_4.compact.json
+5,T^3 + 4*T^2 + 4*T + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T2_4_T_2.compact.json
+5,T^3 + 4*T^2 + 4*T + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T2_4_T_4.compact.json
+5,T^3 + 4*T^2 + T + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T2_T_1.compact.json
+5,T^3 + 4*T^2 + T + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_4_T2_T_2.compact.json
+5,T^3 + T + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T_1.compact.json
+5,T^3 + T + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T_4.compact.json
+5,T^3 + T^2 + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T2_1.compact.json
+5,T^3 + T^2 + 2,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T2_2.compact.json
+5,T^3 + T^2 + 3*T + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T2_3_T_1.compact.json
+5,T^3 + T^2 + 3*T + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T2_3_T_4.compact.json
+5,T^3 + T^2 + 4*T + 1,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T2_4_T_1.compact.json
+5,T^3 + T^2 + 4*T + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T2_4_T_3.compact.json
+5,T^3 + T^2 + T + 3,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T2_T_3.compact.json
+5,T^3 + T^2 + T + 4,3,6,6,4,828,40,3,9853104,results/q5_degree3_compact,p_T3_T2_T_4.compact.json
+5,T^4 + 2,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_2.compact.json
+5,T^4 + 2*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T_4.compact.json
+5,T^4 + 2*T^2 + 2*T + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_2_T2_2_T_1.compact.json
+5,T^4 + 2*T^2 + 2*T + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_2_T2_2_T_3.compact.json
+5,T^4 + 2*T^2 + 3,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_2_T2_3.compact.json
+5,T^4 + 2*T^2 + 3*T + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_2_T2_3_T_1.compact.json
+5,T^4 + 2*T^2 + 3*T + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_2_T2_3_T_3.compact.json
+5,T^4 + 2*T^3 + 2*T + 1,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_2_T3_2_T_1.compact.json
+5,T^4 + 2*T^3 + 2*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_2_T3_2_T_2.compact.json
+5,T^4 + 2*T^3 + 2*T^2 + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_2_T3_2_T2_1.compact.json
+5,T^4 + 2*T^3 + 2*T^2 + 2*T + 2,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_2_T3_2_T2_2_T_2.compact.json
+5,T^4 + 2*T^3 + 2*T^2 + 2*T + 4,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_2_T3_2_T2_2_T_4.compact.json
+5,T^4 + 2*T^3 + 2*T^2 + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_2_T3_2_T2_3.compact.json
+5,T^4 + 2*T^3 + 2*T^2 + T + 1,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_2_T3_2_T2_T_1.compact.json
+5,T^4 + 2*T^3 + 3*T + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_3_T_3.compact.json
+5,T^4 + 2*T^3 + 3*T^2 + 2,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_3_T2_2.compact.json
+5,T^4 + 2*T^3 + 3*T^2 + 2*T + 4,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_2_T3_3_T2_2_T_4.compact.json
+5,T^4 + 2*T^3 + 3*T^2 + 3*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_2_T3_3_T2_3_T_2.compact.json
+5,T^4 + 2*T^3 + 3*T^2 + 3*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_2_T3_3_T2_3_T_3.compact.json
+5,T^4 + 2*T^3 + 3*T^2 + 4*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_3_T2_4_T_4.compact.json
+5,T^4 + 2*T^3 + 3*T^2 + T + 1,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_2_T3_3_T2_T_1.compact.json
+5,T^4 + 2*T^3 + 3*T^2 + T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_2_T3_3_T2_T_2.compact.json
+5,T^4 + 2*T^3 + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_4.compact.json
+5,T^4 + 2*T^3 + 4*T + 2,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_2_T3_4_T_2.compact.json
+5,T^4 + 2*T^3 + 4*T^2 + 1,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_4_T2_1.compact.json
+5,T^4 + 2*T^3 + 4*T^2 + 2*T + 2,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_4_T2_2_T_2.compact.json
+5,T^4 + 2*T^3 + 4*T^2 + 3*T + 3,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_2_T3_4_T2_3_T_3.compact.json
+5,T^4 + 2*T^3 + 4*T^2 + 3*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_4_T2_3_T_4.compact.json
+5,T^4 + 2*T^3 + 4*T^2 + 4*T + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_4_T2_4_T_3.compact.json
+5,T^4 + 2*T^3 + 4*T^2 + T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_2_T3_4_T2_T_4.compact.json
+5,T^4 + 2*T^3 + T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_2_T3_T_3.compact.json
+5,T^4 + 2*T^3 + T + 4,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_2_T3_T_4.compact.json
+5,T^4 + 2*T^3 + T^2 + 2,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_2_T3_T2_2.compact.json
+5,T^4 + 2*T^3 + T^2 + 2*T + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_2_T3_T2_2_T_1.compact.json
+5,T^4 + 2*T^3 + T^2 + 2*T + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_2_T3_T2_2_T_3.compact.json
+5,T^4 + 2*T^3 + T^2 + 3*T + 1,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_2_T3_T2_3_T_1.compact.json
+5,T^4 + 2*T^3 + T^2 + 3*T + 4,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_2_T3_T2_3_T_4.compact.json
+5,T^4 + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3.compact.json
+5,T^4 + 3*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T_4.compact.json
+5,T^4 + 3*T^2 + 3,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_3_T2_3.compact.json
+5,T^4 + 3*T^2 + 4*T + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_3_T2_4_T_1.compact.json
+5,T^4 + 3*T^2 + 4*T + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_3_T2_4_T_3.compact.json
+5,T^4 + 3*T^2 + T + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_3_T2_T_1.compact.json
+5,T^4 + 3*T^2 + T + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_3_T2_T_3.compact.json
+5,T^4 + 3*T^3 + 2*T + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_2_T_3.compact.json
+5,T^4 + 3*T^3 + 2*T^2 + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_3_T3_2_T2_1.compact.json
+5,T^4 + 3*T^3 + 2*T^2 + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_3_T3_2_T2_3.compact.json
+5,T^4 + 3*T^3 + 2*T^2 + 3*T + 2,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_3_T3_2_T2_3_T_2.compact.json
+5,T^4 + 3*T^3 + 2*T^2 + 3*T + 4,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_3_T3_2_T2_3_T_4.compact.json
+5,T^4 + 3*T^3 + 2*T^2 + 4*T + 1,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_3_T3_2_T2_4_T_1.compact.json
+5,T^4 + 3*T^3 + 3*T + 1,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T_1.compact.json
+5,T^4 + 3*T^3 + 3*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T_2.compact.json
+5,T^4 + 3*T^3 + 3*T^2 + 2,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T2_2.compact.json
+5,T^4 + 3*T^3 + 3*T^2 + 2*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T2_2_T_2.compact.json
+5,T^4 + 3*T^3 + 3*T^2 + 2*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T2_2_T_3.compact.json
+5,T^4 + 3*T^3 + 3*T^2 + 3*T + 4,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T2_3_T_4.compact.json
+5,T^4 + 3*T^3 + 3*T^2 + 4*T + 1,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T2_4_T_1.compact.json
+5,T^4 + 3*T^3 + 3*T^2 + 4*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T2_4_T_2.compact.json
+5,T^4 + 3*T^3 + 3*T^2 + T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_3_T2_T_4.compact.json
+5,T^4 + 3*T^3 + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4.compact.json
+5,T^4 + 3*T^3 + 4*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4_T_3.compact.json
+5,T^4 + 3*T^3 + 4*T + 4,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4_T_4.compact.json
+5,T^4 + 3*T^3 + 4*T^2 + 1,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4_T2_1.compact.json
+5,T^4 + 3*T^3 + 4*T^2 + 2*T + 3,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4_T2_2_T_3.compact.json
+5,T^4 + 3*T^3 + 4*T^2 + 2*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4_T2_2_T_4.compact.json
+5,T^4 + 3*T^3 + 4*T^2 + 3*T + 2,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4_T2_3_T_2.compact.json
+5,T^4 + 3*T^3 + 4*T^2 + 4*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4_T2_4_T_4.compact.json
+5,T^4 + 3*T^3 + 4*T^2 + T + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_3_T3_4_T2_T_3.compact.json
+5,T^4 + 3*T^3 + T + 2,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_3_T3_T_2.compact.json
+5,T^4 + 3*T^3 + T^2 + 2,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_3_T3_T2_2.compact.json
+5,T^4 + 3*T^3 + T^2 + 2*T + 1,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_3_T3_T2_2_T_1.compact.json
+5,T^4 + 3*T^3 + T^2 + 2*T + 4,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_3_T3_T2_2_T_4.compact.json
+5,T^4 + 3*T^3 + T^2 + 3*T + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_3_T3_T2_3_T_1.compact.json
+5,T^4 + 3*T^3 + T^2 + 3*T + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_3_T3_T2_3_T_3.compact.json
+5,T^4 + 4*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T_4.compact.json
+5,T^4 + 4*T^2 + 2,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_4_T2_2.compact.json
+5,T^4 + 4*T^2 + 2*T + 1,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T2_2_T_1.compact.json
+5,T^4 + 4*T^2 + 3*T + 1,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T2_3_T_1.compact.json
+5,T^4 + 4*T^2 + 4*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T2_4_T_2.compact.json
+5,T^4 + 4*T^2 + 4*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T2_4_T_3.compact.json
+5,T^4 + 4*T^2 + T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T2_T_2.compact.json
+5,T^4 + 4*T^2 + T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T2_T_3.compact.json
+5,T^4 + 4*T^3 + 2*T + 2,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_4_T3_2_T_2.compact.json
+5,T^4 + 4*T^3 + 2*T^2 + 2,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_2_T2_2.compact.json
+5,T^4 + 4*T^3 + 2*T^2 + 2*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_2_T2_2_T_4.compact.json
+5,T^4 + 4*T^3 + 2*T^2 + 3*T + 1,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T3_2_T2_3_T_1.compact.json
+5,T^4 + 4*T^3 + 2*T^2 + 3*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T3_2_T2_3_T_2.compact.json
+5,T^4 + 4*T^3 + 2*T^2 + 4*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T3_2_T2_4_T_2.compact.json
+5,T^4 + 4*T^3 + 2*T^2 + 4*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T3_2_T2_4_T_3.compact.json
+5,T^4 + 4*T^3 + 2*T^2 + T + 4,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_4_T3_2_T2_T_4.compact.json
+5,T^4 + 4*T^3 + 3*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T3_3_T_3.compact.json
+5,T^4 + 4*T^3 + 3*T + 4,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T3_3_T_4.compact.json
+5,T^4 + 4*T^3 + 3*T^2 + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_4_T3_3_T2_1.compact.json
+5,T^4 + 4*T^3 + 3*T^2 + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_4_T3_3_T2_3.compact.json
+5,T^4 + 4*T^3 + 3*T^2 + 3*T + 1,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_4_T3_3_T2_3_T_1.compact.json
+5,T^4 + 4*T^3 + 3*T^2 + T + 2,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_4_T3_3_T2_T_2.compact.json
+5,T^4 + 4*T^3 + 3*T^2 + T + 4,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_4_T3_3_T2_T_4.compact.json
+5,T^4 + 4*T^3 + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_4.compact.json
+5,T^4 + 4*T^3 + 4*T + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_4_T_3.compact.json
+5,T^4 + 4*T^3 + 4*T^2 + 2,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_4_T3_4_T2_2.compact.json
+5,T^4 + 4*T^3 + 4*T^2 + 4*T + 1,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_4_T3_4_T2_4_T_1.compact.json
+5,T^4 + 4*T^3 + 4*T^2 + 4*T + 4,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_4_T3_4_T2_4_T_4.compact.json
+5,T^4 + 4*T^3 + 4*T^2 + T + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_4_T3_4_T2_T_1.compact.json
+5,T^4 + 4*T^3 + 4*T^2 + T + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_4_T3_4_T2_T_3.compact.json
+5,T^4 + 4*T^3 + T + 1,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T3_T_1.compact.json
+5,T^4 + 4*T^3 + T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_4_T3_T_2.compact.json
+5,T^4 + 4*T^3 + T^2 + 1,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_T2_1.compact.json
+5,T^4 + 4*T^3 + T^2 + 2*T + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_T2_2_T_3.compact.json
+5,T^4 + 4*T^3 + T^2 + 3*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_T2_3_T_4.compact.json
+5,T^4 + 4*T^3 + T^2 + 4*T + 3,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_4_T3_T2_4_T_3.compact.json
+5,T^4 + 4*T^3 + T^2 + 4*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_T2_4_T_4.compact.json
+5,T^4 + 4*T^3 + T^2 + T + 2,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_4_T3_T2_T_2.compact.json
+5,T^4 + T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T_4.compact.json
+5,T^4 + T^2 + 2,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_T2_2.compact.json
+5,T^4 + T^2 + 2*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T2_2_T_2.compact.json
+5,T^4 + T^2 + 2*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T2_2_T_3.compact.json
+5,T^4 + T^2 + 3*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T2_3_T_2.compact.json
+5,T^4 + T^2 + 3*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T2_3_T_3.compact.json
+5,T^4 + T^2 + 4*T + 1,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T2_4_T_1.compact.json
+5,T^4 + T^2 + T + 1,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T2_T_1.compact.json
+5,T^4 + T^3 + 2*T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T_3.compact.json
+5,T^4 + T^3 + 2*T + 4,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T_4.compact.json
+5,T^4 + T^3 + 2*T^2 + 2,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T2_2.compact.json
+5,T^4 + T^3 + 2*T^2 + 2*T + 1,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T2_2_T_1.compact.json
+5,T^4 + T^3 + 2*T^2 + 2*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T2_2_T_2.compact.json
+5,T^4 + T^3 + 2*T^2 + 3*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T2_3_T_4.compact.json
+5,T^4 + T^3 + 2*T^2 + 4*T + 4,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T2_4_T_4.compact.json
+5,T^4 + T^3 + 2*T^2 + T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T2_T_2.compact.json
+5,T^4 + T^3 + 2*T^2 + T + 3,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T3_2_T2_T_3.compact.json
+5,T^4 + T^3 + 3*T + 2,4,26,5,4,204,53,3,27421524,results/q5_degree4_compact,p_T4_T3_3_T_2.compact.json
+5,T^4 + T^3 + 3*T^2 + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_T3_3_T2_1.compact.json
+5,T^4 + T^3 + 3*T^2 + 2*T + 1,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_T3_3_T2_2_T_1.compact.json
+5,T^4 + T^3 + 3*T^2 + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_T3_3_T2_3.compact.json
+5,T^4 + T^3 + 3*T^2 + 4*T + 2,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_T3_3_T2_4_T_2.compact.json
+5,T^4 + T^3 + 3*T^2 + 4*T + 4,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_T3_3_T2_4_T_4.compact.json
+5,T^4 + T^3 + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_4.compact.json
+5,T^4 + T^3 + 4*T + 1,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T3_4_T_1.compact.json
+5,T^4 + T^3 + 4*T + 2,4,26,5,4,204,54,3,27421524,results/q5_degree4_compact,p_T4_T3_4_T_2.compact.json
+5,T^4 + T^3 + 4*T^2 + 2,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_T3_4_T2_2.compact.json
+5,T^4 + T^3 + 4*T^2 + 4*T + 1,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_T3_4_T2_4_T_1.compact.json
+5,T^4 + T^3 + 4*T^2 + 4*T + 3,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_T3_4_T2_4_T_3.compact.json
+5,T^4 + T^3 + 4*T^2 + T + 1,4,26,5,5,204,55,4,27421524,results/q5_degree4_compact,p_T4_T3_4_T2_T_1.compact.json
+5,T^4 + T^3 + 4*T^2 + T + 4,4,26,5,4,204,47,3,27421524,results/q5_degree4_compact,p_T4_T3_4_T2_T_4.compact.json
+5,T^4 + T^3 + T + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_T_3.compact.json
+5,T^4 + T^3 + T^2 + 1,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_T2_1.compact.json
+5,T^4 + T^3 + T^2 + 2*T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_T2_2_T_4.compact.json
+5,T^4 + T^3 + T^2 + 3*T + 3,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_T2_3_T_3.compact.json
+5,T^4 + T^3 + T^2 + 4*T + 2,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_T2_4_T_2.compact.json
+5,T^4 + T^3 + T^2 + T + 3,4,26,5,4,204,55,3,27421524,results/q5_degree4_compact,p_T4_T3_T2_T_3.compact.json
+5,T^4 + T^3 + T^2 + T + 4,4,26,5,4,204,51,3,27421524,results/q5_degree4_compact,p_T4_T3_T2_T_4.compact.json
+7,T,1,1,1,1,0,0,,0,results/q7_low_degree,p_T.json
+7,T + 1,1,1,1,1,0,0,,0,results/q7_low_degree,p_T_1.json
+7,T + 2,1,1,1,1,0,0,,0,results/q7_low_degree,p_T_2.json
+7,T + 3,1,1,1,1,0,0,,0,results/q7_low_degree,p_T_3.json
+7,T + 4,1,1,1,1,0,0,,0,results/q7_low_degree,p_T_4.json
+7,T + 5,1,1,1,1,0,0,,0,results/q7_low_degree,p_T_5.json
+7,T + 6,1,1,1,1,0,0,,0,results/q7_low_degree,p_T_6.json
+7,T^2 + 1,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_1.json
+7,T^2 + 2,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_2.json
+7,T^2 + 2*T + 2,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_2_T_2.json
+7,T^2 + 2*T + 3,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_2_T_3.json
+7,T^2 + 2*T + 5,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_2_T_5.json
+7,T^2 + 3*T + 1,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_3_T_1.json
+7,T^2 + 3*T + 5,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_3_T_5.json
+7,T^2 + 3*T + 6,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_3_T_6.json
+7,T^2 + 4,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_4.json
+7,T^2 + 4*T + 1,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_4_T_1.json
+7,T^2 + 4*T + 5,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_4_T_5.json
+7,T^2 + 4*T + 6,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_4_T_6.json
+7,T^2 + 5*T + 2,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_5_T_2.json
+7,T^2 + 5*T + 3,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_5_T_3.json
+7,T^2 + 5*T + 5,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_5_T_5.json
+7,T^2 + 6*T + 3,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_6_T_3.json
+7,T^2 + 6*T + 4,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_6_T_4.json
+7,T^2 + 6*T + 6,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_6_T_6.json
+7,T^2 + T + 3,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_T_3.json
+7,T^2 + T + 4,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_T_4.json
+7,T^2 + T + 6,2,1,1,1,0,0,,0,results/q7_low_degree,p_T2_T_6.json
+7,T^3 + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2.compact.json
+7,T^3 + 2*T + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_2_T_1.compact.json
+7,T^3 + 2*T + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_2_T_6.compact.json
+7,T^3 + 2*T^2 + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_2_T2_1.compact.json
+7,T^3 + 2*T^2 + 2*T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_2_T_3.compact.json
+7,T^3 + 2*T^2 + 2*T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_2_T_6.compact.json
+7,T^3 + 2*T^2 + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_2_T2_3.compact.json
+7,T^3 + 2*T^2 + 3*T + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_2_T2_3_T_3.compact.json
+7,T^3 + 2*T^2 + 3*T + 5,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_2_T2_3_T_5.compact.json
+7,T^3 + 2*T^2 + 4*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_4_T_2.compact.json
+7,T^3 + 2*T^2 + 4*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_4_T_5.compact.json
+7,T^3 + 2*T^2 + 5*T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_5_T_1.compact.json
+7,T^3 + 2*T^2 + 5*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_5_T_5.compact.json
+7,T^3 + 2*T^2 + 6*T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_6_T_1.compact.json
+7,T^3 + 2*T^2 + 6*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_6_T_2.compact.json
+7,T^3 + 2*T^2 + 6*T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_6_T_3.compact.json
+7,T^3 + 2*T^2 + 6*T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_2_T2_6_T_4.compact.json
+7,T^3 + 2*T^2 + T + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_2_T2_T_4.compact.json
+7,T^3 + 2*T^2 + T + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_2_T2_T_6.compact.json
+7,T^3 + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3.compact.json
+7,T^3 + 3*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T_2.compact.json
+7,T^3 + 3*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T_5.compact.json
+7,T^3 + 3*T^2 + 2*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_2_T_2.compact.json
+7,T^3 + 3*T^2 + 2*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_2_T_5.compact.json
+7,T^3 + 3*T^2 + 3*T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_3_T_3.compact.json
+7,T^3 + 3*T^2 + 3*T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_3_T_4.compact.json
+7,T^3 + 3*T^2 + 3*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_3_T_5.compact.json
+7,T^3 + 3*T^2 + 3*T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_3_T_6.compact.json
+7,T^3 + 3*T^2 + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_3_T2_4.compact.json
+7,T^3 + 3*T^2 + 4*T + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_3_T2_4_T_1.compact.json
+7,T^3 + 3*T^2 + 4*T + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_3_T2_4_T_3.compact.json
+7,T^3 + 3*T^2 + 5*T + 2,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_3_T2_5_T_2.compact.json
+7,T^3 + 3*T^2 + 5*T + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_3_T2_5_T_4.compact.json
+7,T^3 + 3*T^2 + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_3_T2_6.compact.json
+7,T^3 + 3*T^2 + 6*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_6_T_2.compact.json
+7,T^3 + 3*T^2 + 6*T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_6_T_6.compact.json
+7,T^3 + 3*T^2 + T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_T_1.compact.json
+7,T^3 + 3*T^2 + T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_3_T2_T_4.compact.json
+7,T^3 + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4.compact.json
+7,T^3 + 4*T + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_4_T_1.compact.json
+7,T^3 + 4*T + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_4_T_6.compact.json
+7,T^3 + 4*T^2 + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_4_T2_1.compact.json
+7,T^3 + 4*T^2 + 2*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_2_T_2.compact.json
+7,T^3 + 4*T^2 + 2*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_2_T_5.compact.json
+7,T^3 + 4*T^2 + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_4_T2_3.compact.json
+7,T^3 + 4*T^2 + 3*T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_3_T_1.compact.json
+7,T^3 + 4*T^2 + 3*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_3_T_2.compact.json
+7,T^3 + 4*T^2 + 3*T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_3_T_3.compact.json
+7,T^3 + 4*T^2 + 3*T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_3_T_4.compact.json
+7,T^3 + 4*T^2 + 4*T + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_4_T2_4_T_4.compact.json
+7,T^3 + 4*T^2 + 4*T + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_4_T2_4_T_6.compact.json
+7,T^3 + 4*T^2 + 5*T + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_4_T2_5_T_3.compact.json
+7,T^3 + 4*T^2 + 5*T + 5,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_4_T2_5_T_5.compact.json
+7,T^3 + 4*T^2 + 6*T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_6_T_1.compact.json
+7,T^3 + 4*T^2 + 6*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_6_T_5.compact.json
+7,T^3 + 4*T^2 + T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_T_3.compact.json
+7,T^3 + 4*T^2 + T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_4_T2_T_6.compact.json
+7,T^3 + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5.compact.json
+7,T^3 + 5*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T_2.compact.json
+7,T^3 + 5*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T_5.compact.json
+7,T^3 + 5*T^2 + 2*T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_2_T_1.compact.json
+7,T^3 + 5*T^2 + 2*T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_2_T_4.compact.json
+7,T^3 + 5*T^2 + 3*T + 2,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_5_T2_3_T_2.compact.json
+7,T^3 + 5*T^2 + 3*T + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_5_T2_3_T_4.compact.json
+7,T^3 + 5*T^2 + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_5_T2_4.compact.json
+7,T^3 + 5*T^2 + 4*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_4_T_2.compact.json
+7,T^3 + 5*T^2 + 4*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_4_T_5.compact.json
+7,T^3 + 5*T^2 + 5*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_5_T_2.compact.json
+7,T^3 + 5*T^2 + 5*T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_5_T_6.compact.json
+7,T^3 + 5*T^2 + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_5_T2_6.compact.json
+7,T^3 + 5*T^2 + 6*T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_6_T_3.compact.json
+7,T^3 + 5*T^2 + 6*T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_6_T_4.compact.json
+7,T^3 + 5*T^2 + 6*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_6_T_5.compact.json
+7,T^3 + 5*T^2 + 6*T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_5_T2_6_T_6.compact.json
+7,T^3 + 5*T^2 + T + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_5_T2_T_1.compact.json
+7,T^3 + 5*T^2 + T + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_5_T2_T_3.compact.json
+7,T^3 + 6*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T_2.compact.json
+7,T^3 + 6*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T_5.compact.json
+7,T^3 + 6*T^2 + 2*T + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_6_T2_2_T_1.compact.json
+7,T^3 + 6*T^2 + 2*T + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_6_T2_2_T_3.compact.json
+7,T^3 + 6*T^2 + 3*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_3_T_2.compact.json
+7,T^3 + 6*T^2 + 3*T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_3_T_6.compact.json
+7,T^3 + 6*T^2 + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_6_T2_4.compact.json
+7,T^3 + 6*T^2 + 4*T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_4_T_1.compact.json
+7,T^3 + 6*T^2 + 4*T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_4_T_4.compact.json
+7,T^3 + 6*T^2 + 5*T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_5_T_3.compact.json
+7,T^3 + 6*T^2 + 5*T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_5_T_4.compact.json
+7,T^3 + 6*T^2 + 5*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_5_T_5.compact.json
+7,T^3 + 6*T^2 + 5*T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_5_T_6.compact.json
+7,T^3 + 6*T^2 + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_6_T2_6.compact.json
+7,T^3 + 6*T^2 + 6*T + 2,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_6_T2_6_T_2.compact.json
+7,T^3 + 6*T^2 + 6*T + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_6_T2_6_T_4.compact.json
+7,T^3 + 6*T^2 + T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_T_2.compact.json
+7,T^3 + 6*T^2 + T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_6_T2_T_5.compact.json
+7,T^3 + T + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_T_1.compact.json
+7,T^3 + T + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_T_6.compact.json
+7,T^3 + T^2 + 1,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_T2_1.compact.json
+7,T^3 + T^2 + 2*T + 4,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_T2_2_T_4.compact.json
+7,T^3 + T^2 + 2*T + 6,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_T2_2_T_6.compact.json
+7,T^3 + T^2 + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_T2_3.compact.json
+7,T^3 + T^2 + 3*T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_3_T_1.compact.json
+7,T^3 + T^2 + 3*T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_3_T_5.compact.json
+7,T^3 + T^2 + 4*T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_4_T_3.compact.json
+7,T^3 + T^2 + 4*T + 6,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_4_T_6.compact.json
+7,T^3 + T^2 + 5*T + 1,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_5_T_1.compact.json
+7,T^3 + T^2 + 5*T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_5_T_2.compact.json
+7,T^3 + T^2 + 5*T + 3,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_5_T_3.compact.json
+7,T^3 + T^2 + 5*T + 4,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_5_T_4.compact.json
+7,T^3 + T^2 + 6*T + 3,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_T2_6_T_3.compact.json
+7,T^3 + T^2 + 6*T + 5,3,8,5,4,727,91,3,6655536,results/q7_degree3_compact,p_T3_T2_6_T_5.compact.json
+7,T^3 + T^2 + T + 2,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_T_2.compact.json
+7,T^3 + T^2 + T + 5,3,8,5,4,727,95,3,6655536,results/q7_degree3_compact,p_T3_T2_T_5.compact.json
+8,T,1,1,1,1,0,0,,0,results/q8,p_T.json
+8,T + 1,1,1,1,1,0,0,,0,results/q8,p_T_1.json
+8,T + a,1,1,1,1,0,0,,0,results/q8,p_T_a.json
+8,T + a + 1,1,1,1,1,0,0,,0,results/q8,p_T_ap1.json
+8,T + a^2,1,1,1,1,0,0,,0,results/q8,p_T_a2.json
+8,T + a^2 + 1,1,1,1,1,0,0,,0,results/q8,p_T_a2p1.json
+8,T + a^2 + a,1,1,1,1,0,0,,0,results/q8,p_T_a2pa.json
+8,T + a^2 + a + 1,1,1,1,1,0,0,,0,results/q8,p_T_a2pap1.json
+8,T^2 + (a + 1)*T + a^2,2,1,1,1,0,0,,0,results/q8,p_T2_ap1_T_a2.json
+8,T^2 + (a + 1)*T + a^2 + 1,2,1,1,1,0,0,,0,results/q8,p_T2_ap1_T_a2p1.json
+8,T^2 + (a + 1)*T + a^2 + a,2,1,1,1,0,0,,0,results/q8,p_T2_ap1_T_a2pa.json
+8,T^2 + (a + 1)*T + a^2 + a + 1,2,1,1,1,0,0,,0,results/q8,p_T2_ap1_T_a2pap1.json
+8,T^2 + (a^2 + 1)*T + a,2,1,1,1,0,0,,0,results/q8,p_T2_a2p1_T_a.json
+8,T^2 + (a^2 + 1)*T + a + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a2p1_T_ap1.json
+8,T^2 + (a^2 + 1)*T + a^2 + a,2,1,1,1,0,0,,0,results/q8,p_T2_a2p1_T_a2pa.json
+8,T^2 + (a^2 + 1)*T + a^2 + a + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a2p1_T_a2pap1.json
+8,T^2 + (a^2 + a + 1)*T + a,2,1,1,1,0,0,,0,results/q8,p_T2_a2pap1_T_a.json
+8,T^2 + (a^2 + a + 1)*T + a + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a2pap1_T_ap1.json
+8,T^2 + (a^2 + a + 1)*T + a^2,2,1,1,1,0,0,,0,results/q8,p_T2_a2pap1_T_a2.json
+8,T^2 + (a^2 + a + 1)*T + a^2 + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a2pap1_T_a2p1.json
+8,T^2 + (a^2 + a)*T + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a2pa_T_1.json
+8,T^2 + (a^2 + a)*T + a,2,1,1,1,0,0,,0,results/q8,p_T2_a2pa_T_a.json
+8,T^2 + (a^2 + a)*T + a^2 + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a2pa_T_a2p1.json
+8,T^2 + (a^2 + a)*T + a^2 + a,2,1,1,1,0,0,,0,results/q8,p_T2_a2pa_T_a2pa.json
+8,T^2 + T + 1,2,1,1,1,0,0,,0,results/q8,p_T2_T_1.json
+8,T^2 + T + a + 1,2,1,1,1,0,0,,0,results/q8,p_T2_T_ap1.json
+8,T^2 + T + a^2 + 1,2,1,1,1,0,0,,0,results/q8,p_T2_T_a2p1.json
+8,T^2 + T + a^2 + a + 1,2,1,1,1,0,0,,0,results/q8,p_T2_T_a2pap1.json
+8,T^2 + a*T + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a_T_1.json
+8,T^2 + a*T + a,2,1,1,1,0,0,,0,results/q8,p_T2_a_T_a.json
+8,T^2 + a*T + a^2,2,1,1,1,0,0,,0,results/q8,p_T2_a_T_a2.json
+8,T^2 + a*T + a^2 + a + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a_T_a2pap1.json
+8,T^2 + a^2*T + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a2_T_1.json
+8,T^2 + a^2*T + a + 1,2,1,1,1,0,0,,0,results/q8,p_T2_a2_T_ap1.json
+8,T^2 + a^2*T + a^2,2,1,1,1,0,0,,0,results/q8,p_T2_a2_T_a2.json
+8,T^2 + a^2*T + a^2 + a,2,1,1,1,0,0,,0,results/q8,p_T2_a2_T_a2pa.json
+8,T^3 + (a + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T_ap1.json
+8,T^3 + (a + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T_a2.json
+8,T^3 + (a + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T_a2pap1.json
+8,T^3 + (a + 1)*T^2 + (a + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_ap1_T_a2.json
+8,T^3 + (a + 1)*T^2 + (a + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_ap1_T_a2pa.json
+8,T^3 + (a + 1)*T^2 + (a + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_ap1_T_a2pap1.json
+8,T^3 + (a + 1)*T^2 + (a^2 + a + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2pap1_T_ap1.json
+8,T^3 + (a + 1)*T^2 + (a^2 + a + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2pap1_T_a2pa.json
+8,T^3 + (a + 1)*T^2 + (a^2 + a + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2pap1_T_a2pap1.json
+8,T^3 + (a + 1)*T^2 + (a^2 + a)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2pa_T_a.json
+8,T^3 + (a + 1)*T^2 + (a^2 + a)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2pa_T_a2p1.json
+8,T^3 + (a + 1)*T^2 + (a^2 + a)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2pa_T_a2pa.json
+8,T^3 + (a + 1)*T^2 + T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_T_a.json
+8,T^3 + (a + 1)*T^2 + T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_T_a2.json
+8,T^3 + (a + 1)*T^2 + T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_T_a2p1.json
+8,T^3 + (a + 1)*T^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_ap1.json
+8,T^3 + (a + 1)*T^2 + a*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a_T_1.json
+8,T^3 + (a + 1)*T^2 + a*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a_T_ap1.json
+8,T^3 + (a + 1)*T^2 + a*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a_T_a2.json
+8,T^3 + (a + 1)*T^2 + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2p1.json
+8,T^3 + (a + 1)*T^2 + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2pa.json
+8,T^3 + (a + 1)*T^2 + a^2*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2_T_1.json
+8,T^3 + (a + 1)*T^2 + a^2*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2_T_ap1.json
+8,T^3 + (a + 1)*T^2 + a^2*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_ap1_T2_a2_T_a2p1.json
+8,T^3 + (a^2 + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T_ap1.json
+8,T^3 + (a^2 + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T_a2p1.json
+8,T^3 + (a^2 + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T_a2pa.json
+8,T^3 + (a^2 + 1)*T^2 + (a + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_ap1_T_a.json
+8,T^3 + (a^2 + 1)*T^2 + (a + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_ap1_T_ap1.json
+8,T^3 + (a^2 + 1)*T^2 + (a + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_ap1_T_a2p1.json
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2p1_T_a.json
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2p1_T_ap1.json
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2p1_T_a2pa.json
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + a)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2pa_T_1.json
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + a)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2pa_T_a2p1.json
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + a)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2pa_T_a2pap1.json
+8,T^3 + (a^2 + 1)*T^2 + T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_T_a2.json
+8,T^3 + (a^2 + 1)*T^2 + T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_T_a2pa.json
+8,T^3 + (a^2 + 1)*T^2 + T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_T_a2pap1.json
+8,T^3 + (a^2 + 1)*T^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a.json
+8,T^3 + (a^2 + 1)*T^2 + a*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a_T_a.json
+8,T^3 + (a^2 + 1)*T^2 + a*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a_T_a2.json
+8,T^3 + (a^2 + 1)*T^2 + a*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a_T_a2pap1.json
+8,T^3 + (a^2 + 1)*T^2 + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2p1.json
+8,T^3 + (a^2 + 1)*T^2 + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2pap1.json
+8,T^3 + (a^2 + 1)*T^2 + a^2*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2_T_1.json
+8,T^3 + (a^2 + 1)*T^2 + a^2*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2_T_a2p1.json
+8,T^3 + (a^2 + 1)*T^2 + a^2*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2p1_T2_a2_T_a2pa.json
+8,T^3 + (a^2 + a + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T_a.json
+8,T^3 + (a^2 + a + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T_a2p1.json
+8,T^3 + (a^2 + a + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T_a2pap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2p1_T_a2.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2p1_T_a2p1.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2p1_T_a2pap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2pap1_T_a.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2pap1_T_a2.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2pap1_T_a2p1.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2pa_T_1.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2pa_T_a.json
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2pa_T_a2pap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_T_a.json
+8,T^3 + (a^2 + a + 1)*T^2 + T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_T_ap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_T_a2pa.json
+8,T^3 + (a^2 + a + 1)*T^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_ap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + a*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a_T_1.json
+8,T^3 + (a^2 + a + 1)*T^2 + a*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a_T_ap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + a*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a_T_a2pap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2.json
+8,T^3 + (a^2 + a + 1)*T^2 + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2pap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + a^2*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2_T_ap1.json
+8,T^3 + (a^2 + a + 1)*T^2 + a^2*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2_T_a2.json
+8,T^3 + (a^2 + a + 1)*T^2 + a^2*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pap1_T2_a2_T_a2pa.json
+8,T^3 + (a^2 + a)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T_1.json
+8,T^3 + (a^2 + a)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T_a.json
+8,T^3 + (a^2 + a)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T_ap1.json
+8,T^3 + (a^2 + a)*T^2 + (a + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_ap1_T_ap1.json
+8,T^3 + (a^2 + a)*T^2 + (a + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_ap1_T_a2p1.json
+8,T^3 + (a^2 + a)*T^2 + (a + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_ap1_T_a2pap1.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + 1)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2p1_T_1.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2p1_T_a2.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2p1_T_a2pa.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a + 1)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2pap1_T_1.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2pap1_T_a.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2pap1_T_a2pap1.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2pa_T_ap1.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2pa_T_a2.json
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2pa_T_a2p1.json
+8,T^3 + (a^2 + a)*T^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_1.json
+8,T^3 + (a^2 + a)*T^2 + T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_T_1.json
+8,T^3 + (a^2 + a)*T^2 + T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_T_a.json
+8,T^3 + (a^2 + a)*T^2 + T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_T_a2p1.json
+8,T^3 + (a^2 + a)*T^2 + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2.json
+8,T^3 + (a^2 + a)*T^2 + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2p1.json
+8,T^3 + (a^2 + a)*T^2 + a^2*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2_T_a2.json
+8,T^3 + (a^2 + a)*T^2 + a^2*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2_T_a2pa.json
+8,T^3 + (a^2 + a)*T^2 + a^2*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2pa_T2_a2_T_a2pap1.json
+8,T^3 + T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T_a.json
+8,T^3 + T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T_a2.json
+8,T^3 + T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T_a2pa.json
+8,T^3 + T^2 + (a + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_ap1_T_a.json
+8,T^3 + T^2 + (a + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_ap1_T_a2pa.json
+8,T^3 + T^2 + (a + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_ap1_T_a2pap1.json
+8,T^3 + T^2 + (a^2 + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2p1_T_a.json
+8,T^3 + T^2 + (a^2 + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2p1_T_ap1.json
+8,T^3 + T^2 + (a^2 + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2p1_T_a2.json
+8,T^3 + T^2 + (a^2 + a + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2pap1_T_a2.json
+8,T^3 + T^2 + (a^2 + a + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2pap1_T_a2p1.json
+8,T^3 + T^2 + (a^2 + a + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2pap1_T_a2pa.json
+8,T^3 + T^2 + (a^2 + a)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2pa_T_1.json
+8,T^3 + T^2 + (a^2 + a)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2pa_T_ap1.json
+8,T^3 + T^2 + (a^2 + a)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2pa_T_a2.json
+8,T^3 + T^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a.json
+8,T^3 + T^2 + a*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a_T_1.json
+8,T^3 + T^2 + a*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a_T_a2p1.json
+8,T^3 + T^2 + a*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a_T_a2pa.json
+8,T^3 + T^2 + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2.json
+8,T^3 + T^2 + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2pa.json
+8,T^3 + T^2 + a^2*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2_T_1.json
+8,T^3 + T^2 + a^2*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2_T_a.json
+8,T^3 + T^2 + a^2*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_T2_a2_T_a2pap1.json
+8,T^3 + a*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T_1.json
+8,T^3 + a*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T_a2.json
+8,T^3 + a*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T_a2p1.json
+8,T^3 + a*T^2 + (a + 1)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_ap1_T_1.json
+8,T^3 + a*T^2 + (a + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_ap1_T_ap1.json
+8,T^3 + a*T^2 + (a + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_ap1_T_a2.json
+8,T^3 + a*T^2 + (a^2 + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2p1_T_ap1.json
+8,T^3 + a*T^2 + (a^2 + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2p1_T_a2p1.json
+8,T^3 + a*T^2 + (a^2 + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2p1_T_a2pap1.json
+8,T^3 + a*T^2 + (a^2 + a + 1)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2pap1_T_1.json
+8,T^3 + a*T^2 + (a^2 + a + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2pap1_T_a.json
+8,T^3 + a*T^2 + (a^2 + a + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2pap1_T_a2pa.json
+8,T^3 + a*T^2 + (a^2 + a)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2pa_T_a.json
+8,T^3 + a*T^2 + (a^2 + a)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2pa_T_ap1.json
+8,T^3 + a*T^2 + (a^2 + a)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2pa_T_a2pa.json
+8,T^3 + a*T^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_1.json
+8,T^3 + a*T^2 + T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_T_1.json
+8,T^3 + a*T^2 + T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_T_a2.json
+8,T^3 + a*T^2 + T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_T_a2pap1.json
+8,T^3 + a*T^2 + a*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a_T_a2p1.json
+8,T^3 + a*T^2 + a*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a_T_a2pa.json
+8,T^3 + a*T^2 + a*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a_T_a2pap1.json
+8,T^3 + a*T^2 + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2pa.json
+8,T^3 + a*T^2 + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a_T2_a2pap1.json
+8,T^3 + a^2*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T_1.json
+8,T^3 + a^2*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T_a2pa.json
+8,T^3 + a^2*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T_a2pap1.json
+8,T^3 + a^2*T^2 + (a + 1)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_ap1_T_1.json
+8,T^3 + a^2*T^2 + (a + 1)*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_ap1_T_a.json
+8,T^3 + a^2*T^2 + (a + 1)*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_ap1_T_a2.json
+8,T^3 + a^2*T^2 + (a^2 + 1)*T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2p1_T_1.json
+8,T^3 + a^2*T^2 + (a^2 + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2p1_T_a2p1.json
+8,T^3 + a^2*T^2 + (a^2 + 1)*T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2p1_T_a2pa.json
+8,T^3 + a^2*T^2 + (a^2 + a + 1)*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2pap1_T_ap1.json
+8,T^3 + a^2*T^2 + (a^2 + a + 1)*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2pap1_T_a2p1.json
+8,T^3 + a^2*T^2 + (a^2 + a + 1)*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2pap1_T_a2pap1.json
+8,T^3 + a^2*T^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_1.json
+8,T^3 + a^2*T^2 + T + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_T_1.json
+8,T^3 + a^2*T^2 + T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_T_ap1.json
+8,T^3 + a^2*T^2 + T + a^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_T_a2pa.json
+8,T^3 + a^2*T^2 + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a.json
+8,T^3 + a^2*T^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_ap1.json
+8,T^3 + a^2*T^2 + a*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a_T_a.json
+8,T^3 + a^2*T^2 + a*T + a^2,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a_T_a2.json
+8,T^3 + a^2*T^2 + a*T + a^2 + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a_T_a2p1.json
+8,T^3 + a^2*T^2 + a^2*T + a,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2_T_a.json
+8,T^3 + a^2*T^2 + a^2*T + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2_T_ap1.json
+8,T^3 + a^2*T^2 + a^2*T + a^2 + a + 1,3,9,5,4,1211,128,3,21233583,results/q8,p_T3_a2_T2_a2_T_a2pap1.json
+11,T,1,1,1,1,0,0,,0,results/q11_low_degree,p_T.json
+11,T + 1,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_1.json
+11,T + 10,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_10.json
+11,T + 2,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_2.json
+11,T + 3,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_3.json
+11,T + 4,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_4.json
+11,T + 5,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_5.json
+11,T + 6,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_6.json
+11,T + 7,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_7.json
+11,T + 8,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_8.json
+11,T + 9,1,1,1,1,0,0,,0,results/q11_low_degree,p_T_9.json
+11,T^2 + 1,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_1.json
+11,T^2 + 10*T + 1,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_10_T_1.json
+11,T^2 + 10*T + 4,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_10_T_4.json
+11,T^2 + 10*T + 6,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_10_T_6.json
+11,T^2 + 10*T + 7,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_10_T_7.json
+11,T^2 + 10*T + 8,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_10_T_8.json
+11,T^2 + 2*T + 10,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_2_T_10.json
+11,T^2 + 2*T + 2,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_2_T_2.json
+11,T^2 + 2*T + 4,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_2_T_4.json
+11,T^2 + 2*T + 5,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_2_T_5.json
+11,T^2 + 2*T + 6,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_2_T_6.json
+11,T^2 + 3,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_3.json
+11,T^2 + 3*T + 10,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_3_T_10.json
+11,T^2 + 3*T + 3,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_3_T_3.json
+11,T^2 + 3*T + 6,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_3_T_6.json
+11,T^2 + 3*T + 8,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_3_T_8.json
+11,T^2 + 3*T + 9,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_3_T_9.json
+11,T^2 + 4,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_4.json
+11,T^2 + 4*T + 2,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_4_T_2.json
+11,T^2 + 4*T + 5,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_4_T_5.json
+11,T^2 + 4*T + 7,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_4_T_7.json
+11,T^2 + 4*T + 8,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_4_T_8.json
+11,T^2 + 4*T + 9,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_4_T_9.json
+11,T^2 + 5,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_5.json
+11,T^2 + 5*T + 1,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_5_T_1.json
+11,T^2 + 5*T + 10,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_5_T_10.json
+11,T^2 + 5*T + 2,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_5_T_2.json
+11,T^2 + 5*T + 3,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_5_T_3.json
+11,T^2 + 5*T + 7,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_5_T_7.json
+11,T^2 + 6*T + 1,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_6_T_1.json
+11,T^2 + 6*T + 10,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_6_T_10.json
+11,T^2 + 6*T + 2,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_6_T_2.json
+11,T^2 + 6*T + 3,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_6_T_3.json
+11,T^2 + 6*T + 7,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_6_T_7.json
+11,T^2 + 7*T + 2,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_7_T_2.json
+11,T^2 + 7*T + 5,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_7_T_5.json
+11,T^2 + 7*T + 7,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_7_T_7.json
+11,T^2 + 7*T + 8,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_7_T_8.json
+11,T^2 + 7*T + 9,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_7_T_9.json
+11,T^2 + 8*T + 10,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_8_T_10.json
+11,T^2 + 8*T + 3,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_8_T_3.json
+11,T^2 + 8*T + 6,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_8_T_6.json
+11,T^2 + 8*T + 8,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_8_T_8.json
+11,T^2 + 8*T + 9,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_8_T_9.json
+11,T^2 + 9,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_9.json
+11,T^2 + 9*T + 10,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_9_T_10.json
+11,T^2 + 9*T + 2,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_9_T_2.json
+11,T^2 + 9*T + 4,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_9_T_4.json
+11,T^2 + 9*T + 5,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_9_T_5.json
+11,T^2 + 9*T + 6,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_9_T_6.json
+11,T^2 + T + 1,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_T_1.json
+11,T^2 + T + 4,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_T_4.json
+11,T^2 + T + 6,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_T_6.json
+11,T^2 + T + 7,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_T_7.json
+11,T^2 + T + 8,2,1,1,1,0,0,,0,results/q11_low_degree,p_T2_T_8.json
+11,T^3 + 10*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T_3.compact.json
+11,T^3 + 10*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T_4.compact.json
+11,T^3 + 10*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T_7.compact.json
+11,T^3 + 10*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T_8.compact.json
+11,T^3 + 10*T^2 + 10*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_10_T_3.compact.json
+11,T^3 + 10*T^2 + 10*T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_10_T_5.compact.json
+11,T^3 + 10*T^2 + 10*T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_10_T_6.compact.json
+11,T^3 + 10*T^2 + 10*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_10_T_8.compact.json
+11,T^3 + 10*T^2 + 2*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_2_T_1.compact.json
+11,T^3 + 10*T^2 + 2*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_2_T_2.compact.json
+11,T^3 + 10*T^2 + 2*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_2_T_7.compact.json
+11,T^3 + 10*T^2 + 2*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_2_T_8.compact.json
+11,T^3 + 10*T^2 + 3*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_3_T_10.compact.json
+11,T^3 + 10*T^2 + 3*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_3_T_2.compact.json
+11,T^3 + 10*T^2 + 3*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_3_T_3.compact.json
+11,T^3 + 10*T^2 + 3*T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_3_T_9.compact.json
+11,T^3 + 10*T^2 + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_5.compact.json
+11,T^3 + 10*T^2 + 5*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_5_T_2.compact.json
+11,T^3 + 10*T^2 + 5*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_5_T_3.compact.json
+11,T^3 + 10*T^2 + 5*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_5_T_4.compact.json
+11,T^3 + 10*T^2 + 5*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_5_T_5.compact.json
+11,T^3 + 10*T^2 + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_6.compact.json
+11,T^3 + 10*T^2 + 6*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_6_T_1.compact.json
+11,T^3 + 10*T^2 + 6*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_6_T_3.compact.json
+11,T^3 + 10*T^2 + 6*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_6_T_7.compact.json
+11,T^3 + 10*T^2 + 6*T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_6_T_9.compact.json
+11,T^3 + 10*T^2 + 7*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_7_T_10.compact.json
+11,T^3 + 10*T^2 + 7*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_7_T_3.compact.json
+11,T^3 + 10*T^2 + 7*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_7_T_6.compact.json
+11,T^3 + 10*T^2 + 7*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_7_T_7.compact.json
+11,T^3 + 10*T^2 + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_8.compact.json
+11,T^3 + 10*T^2 + 8*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_8_T_1.compact.json
+11,T^3 + 10*T^2 + 8*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_8_T_4.compact.json
+11,T^3 + 10*T^2 + 8*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_8_T_7.compact.json
+11,T^3 + 10*T^2 + 8*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_8_T_9.compact.json
+11,T^3 + 10*T^2 + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_9.compact.json
+11,T^3 + 10*T^2 + 9*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_9_T_1.compact.json
+11,T^3 + 10*T^2 + 9*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_9_T_3.compact.json
+11,T^3 + 10*T^2 + 9*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_9_T_5.compact.json
+11,T^3 + 10*T^2 + 9*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_9_T_7.compact.json
+11,T^3 + 10*T^2 + T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_T_2.compact.json
+11,T^3 + 10*T^2 + T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_10_T2_T_4.compact.json
+11,T^3 + 10*T^2 + T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_T_8.compact.json
+11,T^3 + 10*T^2 + T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_10_T2_T_9.compact.json
+11,T^3 + 2*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T_2.compact.json
+11,T^3 + 2*T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T_4.compact.json
+11,T^3 + 2*T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T_7.compact.json
+11,T^3 + 2*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T_9.compact.json
+11,T^3 + 2*T^2 + 10*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_10_T_1.compact.json
+11,T^3 + 2*T^2 + 10*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_10_T_10.compact.json
+11,T^3 + 2*T^2 + 10*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_10_T_3.compact.json
+11,T^3 + 2*T^2 + 10*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_10_T_5.compact.json
+11,T^3 + 2*T^2 + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_2.compact.json
+11,T^3 + 2*T^2 + 2*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_2_T_10.compact.json
+11,T^3 + 2*T^2 + 2*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_2_T_3.compact.json
+11,T^3 + 2*T^2 + 2*T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_2_T_5.compact.json
+11,T^3 + 2*T^2 + 2*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_2_T_9.compact.json
+11,T^3 + 2*T^2 + 3*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_3_T_10.compact.json
+11,T^3 + 2*T^2 + 3*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_3_T_3.compact.json
+11,T^3 + 2*T^2 + 3*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_3_T_4.compact.json
+11,T^3 + 2*T^2 + 3*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_3_T_9.compact.json
+11,T^3 + 2*T^2 + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_4.compact.json
+11,T^3 + 2*T^2 + 4*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_4_T_1.compact.json
+11,T^3 + 2*T^2 + 4*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_4_T_2.compact.json
+11,T^3 + 2*T^2 + 4*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_4_T_5.compact.json
+11,T^3 + 2*T^2 + 4*T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_4_T_6.compact.json
+11,T^3 + 2*T^2 + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_5.compact.json
+11,T^3 + 2*T^2 + 6*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_6_T_10.compact.json
+11,T^3 + 2*T^2 + 6*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_6_T_7.compact.json
+11,T^3 + 2*T^2 + 6*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_6_T_8.compact.json
+11,T^3 + 2*T^2 + 6*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_6_T_9.compact.json
+11,T^3 + 2*T^2 + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_7.compact.json
+11,T^3 + 2*T^2 + 7*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_7_T_2.compact.json
+11,T^3 + 2*T^2 + 7*T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_7_T_4.compact.json
+11,T^3 + 2*T^2 + 7*T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_7_T_7.compact.json
+11,T^3 + 2*T^2 + 7*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_7_T_9.compact.json
+11,T^3 + 2*T^2 + 8*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_8_T_10.compact.json
+11,T^3 + 2*T^2 + 8*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_8_T_2.compact.json
+11,T^3 + 2*T^2 + 8*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_8_T_3.compact.json
+11,T^3 + 2*T^2 + 8*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_8_T_6.compact.json
+11,T^3 + 2*T^2 + 9*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_9_T_1.compact.json
+11,T^3 + 2*T^2 + 9*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_9_T_4.compact.json
+11,T^3 + 2*T^2 + 9*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_9_T_6.compact.json
+11,T^3 + 2*T^2 + 9*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_9_T_9.compact.json
+11,T^3 + 2*T^2 + T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_T_5.compact.json
+11,T^3 + 2*T^2 + T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_T_6.compact.json
+11,T^3 + 2*T^2 + T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_2_T2_T_8.compact.json
+11,T^3 + 2*T^2 + T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_2_T2_T_9.compact.json
+11,T^3 + 3*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T_2.compact.json
+11,T^3 + 3*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T_5.compact.json
+11,T^3 + 3*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T_6.compact.json
+11,T^3 + 3*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T_9.compact.json
+11,T^3 + 3*T^2 + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_10.compact.json
+11,T^3 + 3*T^2 + 10*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_10_T_10.compact.json
+11,T^3 + 3*T^2 + 10*T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_10_T_6.compact.json
+11,T^3 + 3*T^2 + 10*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_10_T_7.compact.json
+11,T^3 + 3*T^2 + 10*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_10_T_9.compact.json
+11,T^3 + 3*T^2 + 2*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_2_T_3.compact.json
+11,T^3 + 3*T^2 + 2*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_2_T_4.compact.json
+11,T^3 + 3*T^2 + 2*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_2_T_7.compact.json
+11,T^3 + 3*T^2 + 2*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_2_T_8.compact.json
+11,T^3 + 3*T^2 + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_3.compact.json
+11,T^3 + 3*T^2 + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_4.compact.json
+11,T^3 + 3*T^2 + 4*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_4_T_6.compact.json
+11,T^3 + 3*T^2 + 4*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_4_T_7.compact.json
+11,T^3 + 3*T^2 + 4*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_4_T_8.compact.json
+11,T^3 + 3*T^2 + 4*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_4_T_9.compact.json
+11,T^3 + 3*T^2 + 5*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_5_T_1.compact.json
+11,T^3 + 3*T^2 + 5*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_5_T_10.compact.json
+11,T^3 + 3*T^2 + 5*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_5_T_5.compact.json
+11,T^3 + 3*T^2 + 5*T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_5_T_7.compact.json
+11,T^3 + 3*T^2 + 6*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_6_T_10.compact.json
+11,T^3 + 3*T^2 + 6*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_6_T_2.compact.json
+11,T^3 + 3*T^2 + 6*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_6_T_6.compact.json
+11,T^3 + 3*T^2 + 6*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_6_T_9.compact.json
+11,T^3 + 3*T^2 + 7*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_7_T_1.compact.json
+11,T^3 + 3*T^2 + 7*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_7_T_4.compact.json
+11,T^3 + 3*T^2 + 7*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_7_T_6.compact.json
+11,T^3 + 3*T^2 + 7*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_7_T_9.compact.json
+11,T^3 + 3*T^2 + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_8.compact.json
+11,T^3 + 3*T^2 + 8*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_8_T_3.compact.json
+11,T^3 + 3*T^2 + 8*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_8_T_5.compact.json
+11,T^3 + 3*T^2 + 8*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_8_T_7.compact.json
+11,T^3 + 3*T^2 + 8*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_8_T_9.compact.json
+11,T^3 + 3*T^2 + 9*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_9_T_1.compact.json
+11,T^3 + 3*T^2 + 9*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_9_T_10.compact.json
+11,T^3 + 3*T^2 + 9*T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_3_T2_9_T_2.compact.json
+11,T^3 + 3*T^2 + 9*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_9_T_4.compact.json
+11,T^3 + 3*T^2 + T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_T_1.compact.json
+11,T^3 + 3*T^2 + T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_T_2.compact.json
+11,T^3 + 3*T^2 + T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_T_7.compact.json
+11,T^3 + 3*T^2 + T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_3_T2_T_8.compact.json
+11,T^3 + 4*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T_1.compact.json
+11,T^3 + 4*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T_10.compact.json
+11,T^3 + 4*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T_4.compact.json
+11,T^3 + 4*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T_7.compact.json
+11,T^3 + 4*T^2 + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_1.compact.json
+11,T^3 + 4*T^2 + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_10.compact.json
+11,T^3 + 4*T^2 + 10*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_10_T_2.compact.json
+11,T^3 + 4*T^2 + 10*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_10_T_3.compact.json
+11,T^3 + 4*T^2 + 10*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_10_T_4.compact.json
+11,T^3 + 4*T^2 + 10*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_10_T_5.compact.json
+11,T^3 + 4*T^2 + 2*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_2_T_1.compact.json
+11,T^3 + 4*T^2 + 2*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_2_T_3.compact.json
+11,T^3 + 4*T^2 + 2*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_2_T_6.compact.json
+11,T^3 + 4*T^2 + 2*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_2_T_9.compact.json
+11,T^3 + 4*T^2 + 3*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_3_T_10.compact.json
+11,T^3 + 4*T^2 + 3*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_3_T_4.compact.json
+11,T^3 + 4*T^2 + 3*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_3_T_6.compact.json
+11,T^3 + 4*T^2 + 3*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_3_T_8.compact.json
+11,T^3 + 4*T^2 + 4*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_4_T_4.compact.json
+11,T^3 + 4*T^2 + 4*T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_4_T_6.compact.json
+11,T^3 + 4*T^2 + 4*T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_4_T_7.compact.json
+11,T^3 + 4*T^2 + 4*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_4_T_9.compact.json
+11,T^3 + 4*T^2 + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_5.compact.json
+11,T^3 + 4*T^2 + 5*T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_5_T_4.compact.json
+11,T^3 + 4*T^2 + 5*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_5_T_5.compact.json
+11,T^3 + 4*T^2 + 5*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_5_T_7.compact.json
+11,T^3 + 4*T^2 + 5*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_5_T_8.compact.json
+11,T^3 + 4*T^2 + 6*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_6_T_1.compact.json
+11,T^3 + 4*T^2 + 6*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_6_T_10.compact.json
+11,T^3 + 4*T^2 + 6*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_6_T_5.compact.json
+11,T^3 + 4*T^2 + 6*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_6_T_6.compact.json
+11,T^3 + 4*T^2 + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_7.compact.json
+11,T^3 + 4*T^2 + 7*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_7_T_2.compact.json
+11,T^3 + 4*T^2 + 7*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_7_T_3.compact.json
+11,T^3 + 4*T^2 + 7*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_7_T_7.compact.json
+11,T^3 + 4*T^2 + 7*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_7_T_8.compact.json
+11,T^3 + 4*T^2 + 8*T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_8_T_2.compact.json
+11,T^3 + 4*T^2 + 8*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_8_T_3.compact.json
+11,T^3 + 4*T^2 + 8*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_8_T_6.compact.json
+11,T^3 + 4*T^2 + 8*T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_4_T2_8_T_7.compact.json
+11,T^3 + 4*T^2 + T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_T_10.compact.json
+11,T^3 + 4*T^2 + T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_T_2.compact.json
+11,T^3 + 4*T^2 + T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_T_3.compact.json
+11,T^3 + 4*T^2 + T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_4_T2_T_6.compact.json
+11,T^3 + 5*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T_1.compact.json
+11,T^3 + 5*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T_10.compact.json
+11,T^3 + 5*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T_3.compact.json
+11,T^3 + 5*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T_8.compact.json
+11,T^3 + 5*T^2 + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_1.compact.json
+11,T^3 + 5*T^2 + 10*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_10_T_10.compact.json
+11,T^3 + 5*T^2 + 10*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_10_T_4.compact.json
+11,T^3 + 5*T^2 + 10*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_10_T_5.compact.json
+11,T^3 + 5*T^2 + 10*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_10_T_9.compact.json
+11,T^3 + 5*T^2 + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_2.compact.json
+11,T^3 + 5*T^2 + 2*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_2_T_5.compact.json
+11,T^3 + 5*T^2 + 2*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_2_T_6.compact.json
+11,T^3 + 5*T^2 + 2*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_2_T_7.compact.json
+11,T^3 + 5*T^2 + 2*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_2_T_8.compact.json
+11,T^3 + 5*T^2 + 3*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_3_T_1.compact.json
+11,T^3 + 5*T^2 + 3*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_3_T_3.compact.json
+11,T^3 + 5*T^2 + 3*T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_3_T_6.compact.json
+11,T^3 + 5*T^2 + 3*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_3_T_8.compact.json
+11,T^3 + 5*T^2 + 4*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_4_T_10.compact.json
+11,T^3 + 5*T^2 + 4*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_4_T_2.compact.json
+11,T^3 + 5*T^2 + 4*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_4_T_3.compact.json
+11,T^3 + 5*T^2 + 4*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_4_T_6.compact.json
+11,T^3 + 5*T^2 + 5*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_5_T_10.compact.json
+11,T^3 + 5*T^2 + 5*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_5_T_2.compact.json
+11,T^3 + 5*T^2 + 5*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_5_T_5.compact.json
+11,T^3 + 5*T^2 + 5*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_5_T_7.compact.json
+11,T^3 + 5*T^2 + 6*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_6_T_1.compact.json
+11,T^3 + 5*T^2 + 6*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_6_T_3.compact.json
+11,T^3 + 5*T^2 + 6*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_6_T_5.compact.json
+11,T^3 + 5*T^2 + 6*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_6_T_7.compact.json
+11,T^3 + 5*T^2 + 7*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_7_T_10.compact.json
+11,T^3 + 5*T^2 + 7*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_7_T_5.compact.json
+11,T^3 + 5*T^2 + 7*T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_7_T_7.compact.json
+11,T^3 + 5*T^2 + 7*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_7_T_8.compact.json
+11,T^3 + 5*T^2 + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_8.compact.json
+11,T^3 + 5*T^2 + 8*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_8_T_1.compact.json
+11,T^3 + 5*T^2 + 8*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_8_T_10.compact.json
+11,T^3 + 5*T^2 + 8*T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_8_T_2.compact.json
+11,T^3 + 5*T^2 + 8*T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_8_T_9.compact.json
+11,T^3 + 5*T^2 + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_9.compact.json
+11,T^3 + 5*T^2 + 9*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_9_T_10.compact.json
+11,T^3 + 5*T^2 + 9*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_9_T_3.compact.json
+11,T^3 + 5*T^2 + 9*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_5_T2_9_T_4.compact.json
+11,T^3 + 5*T^2 + 9*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_5_T2_9_T_8.compact.json
+11,T^3 + 6*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T_3.compact.json
+11,T^3 + 6*T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T_5.compact.json
+11,T^3 + 6*T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T_6.compact.json
+11,T^3 + 6*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T_8.compact.json
+11,T^3 + 6*T^2 + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_10.compact.json
+11,T^3 + 6*T^2 + 10*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_10_T_1.compact.json
+11,T^3 + 6*T^2 + 10*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_10_T_2.compact.json
+11,T^3 + 6*T^2 + 10*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_10_T_6.compact.json
+11,T^3 + 6*T^2 + 10*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_10_T_7.compact.json
+11,T^3 + 6*T^2 + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_2.compact.json
+11,T^3 + 6*T^2 + 2*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_2_T_3.compact.json
+11,T^3 + 6*T^2 + 2*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_2_T_4.compact.json
+11,T^3 + 6*T^2 + 2*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_2_T_5.compact.json
+11,T^3 + 6*T^2 + 2*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_2_T_6.compact.json
+11,T^3 + 6*T^2 + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_3.compact.json
+11,T^3 + 6*T^2 + 3*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_3_T_10.compact.json
+11,T^3 + 6*T^2 + 3*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_3_T_3.compact.json
+11,T^3 + 6*T^2 + 3*T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_3_T_5.compact.json
+11,T^3 + 6*T^2 + 3*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_3_T_8.compact.json
+11,T^3 + 6*T^2 + 4*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_4_T_1.compact.json
+11,T^3 + 6*T^2 + 4*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_4_T_5.compact.json
+11,T^3 + 6*T^2 + 4*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_4_T_8.compact.json
+11,T^3 + 6*T^2 + 4*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_4_T_9.compact.json
+11,T^3 + 6*T^2 + 5*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_5_T_1.compact.json
+11,T^3 + 6*T^2 + 5*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_5_T_4.compact.json
+11,T^3 + 6*T^2 + 5*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_5_T_6.compact.json
+11,T^3 + 6*T^2 + 5*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_5_T_9.compact.json
+11,T^3 + 6*T^2 + 6*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_6_T_10.compact.json
+11,T^3 + 6*T^2 + 6*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_6_T_4.compact.json
+11,T^3 + 6*T^2 + 6*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_6_T_6.compact.json
+11,T^3 + 6*T^2 + 6*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_6_T_8.compact.json
+11,T^3 + 6*T^2 + 7*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_7_T_1.compact.json
+11,T^3 + 6*T^2 + 7*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_7_T_3.compact.json
+11,T^3 + 6*T^2 + 7*T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_7_T_4.compact.json
+11,T^3 + 6*T^2 + 7*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_7_T_6.compact.json
+11,T^3 + 6*T^2 + 8*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_8_T_1.compact.json
+11,T^3 + 6*T^2 + 8*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_8_T_10.compact.json
+11,T^3 + 6*T^2 + 8*T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_8_T_2.compact.json
+11,T^3 + 6*T^2 + 8*T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_8_T_9.compact.json
+11,T^3 + 6*T^2 + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_9.compact.json
+11,T^3 + 6*T^2 + 9*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_9_T_1.compact.json
+11,T^3 + 6*T^2 + 9*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_6_T2_9_T_3.compact.json
+11,T^3 + 6*T^2 + 9*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_9_T_7.compact.json
+11,T^3 + 6*T^2 + 9*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_6_T2_9_T_8.compact.json
+11,T^3 + 7*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T_1.compact.json
+11,T^3 + 7*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T_10.compact.json
+11,T^3 + 7*T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T_2.compact.json
+11,T^3 + 7*T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T_9.compact.json
+11,T^3 + 7*T^2 + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_1.compact.json
+11,T^3 + 7*T^2 + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_10.compact.json
+11,T^3 + 7*T^2 + 10*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_10_T_6.compact.json
+11,T^3 + 7*T^2 + 10*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_10_T_7.compact.json
+11,T^3 + 7*T^2 + 10*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_10_T_8.compact.json
+11,T^3 + 7*T^2 + 10*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_10_T_9.compact.json
+11,T^3 + 7*T^2 + 2*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_2_T_10.compact.json
+11,T^3 + 7*T^2 + 2*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_2_T_2.compact.json
+11,T^3 + 7*T^2 + 2*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_2_T_5.compact.json
+11,T^3 + 7*T^2 + 2*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_2_T_8.compact.json
+11,T^3 + 7*T^2 + 3*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_3_T_1.compact.json
+11,T^3 + 7*T^2 + 3*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_3_T_3.compact.json
+11,T^3 + 7*T^2 + 3*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_3_T_5.compact.json
+11,T^3 + 7*T^2 + 3*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_3_T_7.compact.json
+11,T^3 + 7*T^2 + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_4.compact.json
+11,T^3 + 7*T^2 + 4*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_4_T_2.compact.json
+11,T^3 + 7*T^2 + 4*T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_4_T_4.compact.json
+11,T^3 + 7*T^2 + 4*T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_4_T_5.compact.json
+11,T^3 + 7*T^2 + 4*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_4_T_7.compact.json
+11,T^3 + 7*T^2 + 5*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_5_T_3.compact.json
+11,T^3 + 7*T^2 + 5*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_5_T_4.compact.json
+11,T^3 + 7*T^2 + 5*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_5_T_6.compact.json
+11,T^3 + 7*T^2 + 5*T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_5_T_7.compact.json
+11,T^3 + 7*T^2 + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_6.compact.json
+11,T^3 + 7*T^2 + 6*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_6_T_1.compact.json
+11,T^3 + 7*T^2 + 6*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_6_T_10.compact.json
+11,T^3 + 7*T^2 + 6*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_6_T_5.compact.json
+11,T^3 + 7*T^2 + 6*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_6_T_6.compact.json
+11,T^3 + 7*T^2 + 7*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_7_T_3.compact.json
+11,T^3 + 7*T^2 + 7*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_7_T_4.compact.json
+11,T^3 + 7*T^2 + 7*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_7_T_8.compact.json
+11,T^3 + 7*T^2 + 7*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_7_T_9.compact.json
+11,T^3 + 7*T^2 + 8*T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_8_T_4.compact.json
+11,T^3 + 7*T^2 + 8*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_8_T_5.compact.json
+11,T^3 + 7*T^2 + 8*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_8_T_8.compact.json
+11,T^3 + 7*T^2 + 8*T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_7_T2_8_T_9.compact.json
+11,T^3 + 7*T^2 + T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_T_1.compact.json
+11,T^3 + 7*T^2 + T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_T_5.compact.json
+11,T^3 + 7*T^2 + T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_T_8.compact.json
+11,T^3 + 7*T^2 + T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_7_T2_T_9.compact.json
+11,T^3 + 8*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T_1.compact.json
+11,T^3 + 8*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T_10.compact.json
+11,T^3 + 8*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T_5.compact.json
+11,T^3 + 8*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T_6.compact.json
+11,T^3 + 8*T^2 + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_1.compact.json
+11,T^3 + 8*T^2 + 10*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_10_T_1.compact.json
+11,T^3 + 8*T^2 + 10*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_10_T_2.compact.json
+11,T^3 + 8*T^2 + 10*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_10_T_4.compact.json
+11,T^3 + 8*T^2 + 10*T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_10_T_5.compact.json
+11,T^3 + 8*T^2 + 2*T + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_2_T_3.compact.json
+11,T^3 + 8*T^2 + 2*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_2_T_4.compact.json
+11,T^3 + 8*T^2 + 2*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_2_T_7.compact.json
+11,T^3 + 8*T^2 + 2*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_2_T_8.compact.json
+11,T^3 + 8*T^2 + 3,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_3.compact.json
+11,T^3 + 8*T^2 + 4*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_4_T_2.compact.json
+11,T^3 + 8*T^2 + 4*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_4_T_3.compact.json
+11,T^3 + 8*T^2 + 4*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_4_T_4.compact.json
+11,T^3 + 8*T^2 + 4*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_4_T_5.compact.json
+11,T^3 + 8*T^2 + 5*T + 1,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_5_T_1.compact.json
+11,T^3 + 8*T^2 + 5*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_5_T_10.compact.json
+11,T^3 + 8*T^2 + 5*T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_5_T_4.compact.json
+11,T^3 + 8*T^2 + 5*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_5_T_6.compact.json
+11,T^3 + 8*T^2 + 6*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_6_T_1.compact.json
+11,T^3 + 8*T^2 + 6*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_6_T_2.compact.json
+11,T^3 + 8*T^2 + 6*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_6_T_5.compact.json
+11,T^3 + 8*T^2 + 6*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_6_T_9.compact.json
+11,T^3 + 8*T^2 + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_7.compact.json
+11,T^3 + 8*T^2 + 7*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_7_T_10.compact.json
+11,T^3 + 8*T^2 + 7*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_7_T_2.compact.json
+11,T^3 + 8*T^2 + 7*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_7_T_5.compact.json
+11,T^3 + 8*T^2 + 7*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_7_T_7.compact.json
+11,T^3 + 8*T^2 + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_8.compact.json
+11,T^3 + 8*T^2 + 8*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_8_T_2.compact.json
+11,T^3 + 8*T^2 + 8*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_8_T_4.compact.json
+11,T^3 + 8*T^2 + 8*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_8_T_6.compact.json
+11,T^3 + 8*T^2 + 8*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_8_T_8.compact.json
+11,T^3 + 8*T^2 + 9*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_9_T_1.compact.json
+11,T^3 + 8*T^2 + 9*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_9_T_10.compact.json
+11,T^3 + 8*T^2 + 9*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_9_T_7.compact.json
+11,T^3 + 8*T^2 + 9*T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_8_T2_9_T_9.compact.json
+11,T^3 + 8*T^2 + T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_T_10.compact.json
+11,T^3 + 8*T^2 + T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_T_3.compact.json
+11,T^3 + 8*T^2 + T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_T_4.compact.json
+11,T^3 + 8*T^2 + T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_8_T2_T_9.compact.json
+11,T^3 + 9*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T_2.compact.json
+11,T^3 + 9*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T_3.compact.json
+11,T^3 + 9*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T_8.compact.json
+11,T^3 + 9*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T_9.compact.json
+11,T^3 + 9*T^2 + 10*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_10_T_1.compact.json
+11,T^3 + 9*T^2 + 10*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_10_T_10.compact.json
+11,T^3 + 9*T^2 + 10*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_10_T_6.compact.json
+11,T^3 + 9*T^2 + 10*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_10_T_8.compact.json
+11,T^3 + 9*T^2 + 2*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_2_T_1.compact.json
+11,T^3 + 9*T^2 + 2*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_2_T_2.compact.json
+11,T^3 + 9*T^2 + 2*T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_2_T_6.compact.json
+11,T^3 + 9*T^2 + 2*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_2_T_8.compact.json
+11,T^3 + 9*T^2 + 3*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_3_T_1.compact.json
+11,T^3 + 9*T^2 + 3*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_3_T_2.compact.json
+11,T^3 + 9*T^2 + 3*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_3_T_7.compact.json
+11,T^3 + 9*T^2 + 3*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_3_T_8.compact.json
+11,T^3 + 9*T^2 + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_4.compact.json
+11,T^3 + 9*T^2 + 4*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_4_T_10.compact.json
+11,T^3 + 9*T^2 + 4*T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_4_T_5.compact.json
+11,T^3 + 9*T^2 + 4*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_4_T_6.compact.json
+11,T^3 + 9*T^2 + 4*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_4_T_9.compact.json
+11,T^3 + 9*T^2 + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_6.compact.json
+11,T^3 + 9*T^2 + 6*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_6_T_1.compact.json
+11,T^3 + 9*T^2 + 6*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_6_T_2.compact.json
+11,T^3 + 9*T^2 + 6*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_6_T_3.compact.json
+11,T^3 + 9*T^2 + 6*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_6_T_4.compact.json
+11,T^3 + 9*T^2 + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_7.compact.json
+11,T^3 + 9*T^2 + 7*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_7_T_2.compact.json
+11,T^3 + 9*T^2 + 7*T + 4,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_7_T_4.compact.json
+11,T^3 + 9*T^2 + 7*T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_7_T_7.compact.json
+11,T^3 + 9*T^2 + 7*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_7_T_9.compact.json
+11,T^3 + 9*T^2 + 8*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_8_T_1.compact.json
+11,T^3 + 9*T^2 + 8*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_8_T_5.compact.json
+11,T^3 + 9*T^2 + 8*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_8_T_8.compact.json
+11,T^3 + 9*T^2 + 8*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_8_T_9.compact.json
+11,T^3 + 9*T^2 + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_9.compact.json
+11,T^3 + 9*T^2 + 9*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_9_T_10.compact.json
+11,T^3 + 9*T^2 + 9*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_9_T_2.compact.json
+11,T^3 + 9*T^2 + 9*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_9_T_5.compact.json
+11,T^3 + 9*T^2 + 9*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_9_T_7.compact.json
+11,T^3 + 9*T^2 + T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_T_2.compact.json
+11,T^3 + 9*T^2 + T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_T_3.compact.json
+11,T^3 + 9*T^2 + T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_9_T2_T_5.compact.json
+11,T^3 + 9*T^2 + T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_9_T2_T_6.compact.json
+11,T^3 + T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T_4.compact.json
+11,T^3 + T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T_5.compact.json
+11,T^3 + T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T_6.compact.json
+11,T^3 + T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T_7.compact.json
+11,T^3 + T^2 + 10*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_10_T_3.compact.json
+11,T^3 + T^2 + 10*T + 5,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_10_T_5.compact.json
+11,T^3 + T^2 + 10*T + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_10_T_6.compact.json
+11,T^3 + T^2 + 10*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_10_T_8.compact.json
+11,T^3 + T^2 + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_2.compact.json
+11,T^3 + T^2 + 2*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_2_T_10.compact.json
+11,T^3 + T^2 + 2*T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_2_T_3.compact.json
+11,T^3 + T^2 + 2*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_2_T_4.compact.json
+11,T^3 + T^2 + 2*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_2_T_9.compact.json
+11,T^3 + T^2 + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_3.compact.json
+11,T^3 + T^2 + 3*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_3_T_1.compact.json
+11,T^3 + T^2 + 3*T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_3_T_2.compact.json
+11,T^3 + T^2 + 3*T + 8,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_3_T_8.compact.json
+11,T^3 + T^2 + 3*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_3_T_9.compact.json
+11,T^3 + T^2 + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_5.compact.json
+11,T^3 + T^2 + 5*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_5_T_6.compact.json
+11,T^3 + T^2 + 5*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_5_T_7.compact.json
+11,T^3 + T^2 + 5*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_5_T_8.compact.json
+11,T^3 + T^2 + 5*T + 9,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_5_T_9.compact.json
+11,T^3 + T^2 + 6,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_6.compact.json
+11,T^3 + T^2 + 6*T + 10,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_6_T_10.compact.json
+11,T^3 + T^2 + 6*T + 2,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_6_T_2.compact.json
+11,T^3 + T^2 + 6*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_6_T_4.compact.json
+11,T^3 + T^2 + 6*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_6_T_8.compact.json
+11,T^3 + T^2 + 7*T + 1,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_7_T_1.compact.json
+11,T^3 + T^2 + 7*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_7_T_4.compact.json
+11,T^3 + T^2 + 7*T + 5,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_7_T_5.compact.json
+11,T^3 + T^2 + 7*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_7_T_8.compact.json
+11,T^3 + T^2 + 8*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_8_T_10.compact.json
+11,T^3 + T^2 + 8*T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_8_T_2.compact.json
+11,T^3 + T^2 + 8*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_8_T_4.compact.json
+11,T^3 + T^2 + 8*T + 7,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_8_T_7.compact.json
+11,T^3 + T^2 + 9*T + 10,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_9_T_10.compact.json
+11,T^3 + T^2 + 9*T + 4,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_9_T_4.compact.json
+11,T^3 + T^2 + 9*T + 6,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_9_T_6.compact.json
+11,T^3 + T^2 + 9*T + 8,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_9_T_8.compact.json
+11,T^3 + T^2 + T + 2,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_T_2.compact.json
+11,T^3 + T^2 + T + 3,3,12,5,4,4135,309,3,234812280,results/q11_degree3_compact,p_T3_T2_T_3.compact.json
+11,T^3 + T^2 + T + 7,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_T_7.compact.json
+11,T^3 + T^2 + T + 9,3,12,5,4,4135,305,3,234812280,results/q11_degree3_compact,p_T3_T2_T_9.compact.json

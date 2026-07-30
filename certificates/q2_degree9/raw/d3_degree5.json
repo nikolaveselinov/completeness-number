@@ -1,0 +1,74 @@
+{
+  "class_count": 3,
+  "complete_for_scanned_scope": false,
+  "completed_pair_count": 1,
+  "counter_binary": "/tmp/drinfeld-d9-repo/fast_q2/q2_norm_counter",
+  "counter_binary_sha256": "c78bf50d0118a727dad7c4b4f42420dbecb5d067668ffa904afdf68c93833f3f",
+  "degree_p": 3,
+  "expected_pair_count": 6,
+  "first_obstruction": {
+    "counter_seconds": 3.2374e-05,
+    "exhaustive": true,
+    "hom_dimension": 10,
+    "invalid_norms": 0,
+    "iterations": 1023,
+    "pair": [
+      0,
+      0
+    ],
+    "seconds": 0.003767182000046887,
+    "seen": 5,
+    "source_g_code": 0,
+    "source_j_code": 0,
+    "target_count": 6,
+    "target_g_code": 0,
+    "target_j_code": 0,
+    "zero_codes": [
+      47
+    ],
+    "zero_levels": [
+      "T^5+T^3+T^2+T+1"
+    ]
+  },
+  "level_degree": 5,
+  "method": "direct_hom_nullspace_and_motive_determinant",
+  "off_diagonal_only": false,
+  "p": "T^3+T+1",
+  "p_code": 11,
+  "pair_receipts": [
+    {
+      "counter_seconds": 3.2374e-05,
+      "exhaustive": true,
+      "hom_dimension": 10,
+      "invalid_norms": 0,
+      "iterations": 1023,
+      "pair": [
+        0,
+        0
+      ],
+      "seconds": 0.003767182000046887,
+      "seen": 5,
+      "source_g_code": 0,
+      "source_j_code": 0,
+      "target_count": 6,
+      "target_g_code": 0,
+      "target_j_code": 0,
+      "zero_codes": [
+        47
+      ],
+      "zero_levels": [
+        "T^5+T^3+T^2+T+1"
+      ]
+    }
+  ],
+  "prefix_limited": false,
+  "q": 2,
+  "requested_pair_count": 6,
+  "schema": "sage_free_q2_pair_scan_v1",
+  "target_count": 6,
+  "total_counter_seconds": 3.2374e-05,
+  "total_iterations": 1023,
+  "total_pair_seconds": 0.003767182000046887,
+  "wall_seconds": 0.1434527960000196,
+  "workers": 2
+}

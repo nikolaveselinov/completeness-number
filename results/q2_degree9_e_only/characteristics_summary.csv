@@ -1,0 +1,57 @@
+q,p,deg_p,class_count,U,E,largest_incomplete_degree,evidence_grade,source_record
+2,T^9 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^4 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^4 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^4 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^5 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^5 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^5 + T^4 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^4 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^4 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^4 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^2 + T + 1,9,171,20,14,13,independent exact certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T^4 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T^4 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^4 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^4 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^5 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^5 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^4 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^4 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^5 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^5 + T^4 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^5 + T^4 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^4 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + T^4 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + T^4 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^5 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^5 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^5 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^5 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^5 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^5 + T^4 + T^3 + T + 1,9,171,20,14,13,independent exact certificate,results/q2_degree9_e_only/characteristics_summary.csv

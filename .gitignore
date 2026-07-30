@@ -1,0 +1,36 @@
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environments and editor files
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Packaging and native build products
+build/
+dist/
+*.egg-info/
+.deps/
+*.o
+*.so
+*.a
+fast_q2/q2_norm_counter
+fast_q2/q2_walsh_counter
+fast_prime/prime_norm_counter
+
+# Scheduler output, checkpoints, and interrupted writes
+logs/
+*.lock
+*.tmp
+*.checkpoint.json
+
+# Generated local computations and large primary archives
+results/local/
+results/**/*.json

@@ -1,0 +1,39 @@
+name: Full Sage validation
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    defaults:
+      run:
+        shell: bash -el {0}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Create SageMath environment
+        uses: conda-incubator/setup-miniconda@v4
+        with:
+          activate-environment: drinfeld-completeness
+          environment-file: environment.yml
+          miniforge-version: latest
+          channel-priority: strict
+
+      - name: Show environment
+        run: |
+          sage --version
+          python --version
+          g++ --version
+
+      - name: Build native counters
+        run: make native
+
+      - name: Run full test suite
+        run: make test

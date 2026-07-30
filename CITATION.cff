@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or its computed data, please cite the repository
+  and the forthcoming paper.
+title: "Completeness Numbers for Supersingular Drinfeld Isogeny Graphs"
+type: software
+authors:
+  - family-names: "Veselinov"
+    given-names: "Nikola"
+version: 0.1.0
+date-released: 2026-07-30
+license: MIT
+abstract: >-
+  SageMath and C++ implementations, validation scripts, and exact data for
+  completeness numbers of supersingular rank-two Drinfeld-module isogeny
+  graphs over finite polynomial rings.
+keywords:
+  - Drinfeld modules
+  - isogeny graphs
+  - Brandt matrices
+  - finite fields
+  - exact computation
+preferred-citation:
+  type: unpublished
+  title: "On Supersingular Isogeny Graphs of Drinfeld Modules"
+  authors:
+    - family-names: "Veselinov"
+      given-names: "Nikola"
+  year: 2026

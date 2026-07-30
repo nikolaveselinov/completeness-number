@@ -1,0 +1,1353 @@
+q,p,deg_p,class_count,U,E,largest_incomplete_degree,evidence_grade,source_record
+2,T,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+2,T + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+2,T^2 + T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+2,T^3 + T + 1,3,3,8,6,5,strict family audit,results/detailed/characteristics.csv
+2,T^3 + T^2 + 1,3,3,8,6,5,strict family audit,results/detailed/characteristics.csv
+2,T^4 + T + 1,4,5,6,3,2,strict family audit,results/detailed/characteristics.csv
+2,T^4 + T^3 + 1,4,5,6,5,4,strict family audit,results/detailed/characteristics.csv
+2,T^4 + T^3 + T^2 + T + 1,4,5,6,5,4,strict family audit,results/detailed/characteristics.csv
+2,T^5 + T^2 + 1,5,11,12,10,9,strict family audit,results/detailed/characteristics.csv
+2,T^5 + T^3 + 1,5,11,12,10,9,strict family audit,results/detailed/characteristics.csv
+2,T^5 + T^3 + T^2 + T + 1,5,11,12,10,9,strict family audit,results/detailed/characteristics.csv
+2,T^5 + T^4 + T^2 + T + 1,5,11,12,10,9,strict family audit,results/detailed/characteristics.csv
+2,T^5 + T^4 + T^3 + T + 1,5,11,12,10,9,strict family audit,results/detailed/characteristics.csv
+2,T^5 + T^4 + T^3 + T^2 + 1,5,11,12,10,9,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T + 1,6,21,11,8,7,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T^3 + 1,6,21,11,8,7,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T^4 + T^2 + T + 1,6,21,11,8,7,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T^4 + T^3 + T + 1,6,21,11,8,7,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T^5 + 1,6,21,11,9,8,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T^5 + T^2 + T + 1,6,21,11,9,8,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T^5 + T^3 + T^2 + 1,6,21,11,9,8,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T^5 + T^4 + T + 1,6,21,11,9,8,strict family audit,results/detailed/characteristics.csv
+2,T^6 + T^5 + T^4 + T^2 + 1,6,21,11,9,8,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^3 + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^3 + T^2 + T + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^4 + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^4 + T^3 + T^2 + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^5 + T^2 + T + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^5 + T^3 + T + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^5 + T^4 + T^3 + 1,7,43,16,14,13,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^5 + T^4 + T^3 + T^2 + T + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + T^3 + T + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + T^4 + T + 1,7,43,16,14,13,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + T^4 + T^2 + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + T^5 + T^2 + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + T^5 + T^3 + T^2 + T + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + T^5 + T^4 + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + T^5 + T^4 + T^2 + T + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^7 + T^6 + T^5 + T^4 + T^3 + T^2 + 1,7,43,16,12,11,strict family audit,results/detailed/characteristics.csv
+2,T^8 + T^4 + T^3 + T + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^4 + T^3 + T^2 + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^5 + T^3 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^5 + T^3 + T^2 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^5 + T^4 + T^3 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^5 + T^4 + T^3 + T^2 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^6 + T^3 + T^2 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^6 + T^4 + T^3 + T^2 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^6 + T^5 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^6 + T^5 + T^2 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^6 + T^5 + T^3 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^6 + T^5 + T^4 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^6 + T^5 + T^4 + T^2 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^6 + T^5 + T^4 + T^3 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^2 + T + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^3 + T + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^3 + T^2 + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^4 + T^3 + T^2 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^5 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^5 + T^3 + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^5 + T^4 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^5 + T^4 + T^3 + T^2 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^6 + T + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^6 + T^3 + T^2 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^6 + T^4 + T^2 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^6 + T^4 + T^3 + T^2 + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^6 + T^5 + T^2 + T + 1,8,85,15,11,10,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^6 + T^5 + T^4 + T + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^6 + T^5 + T^4 + T^2 + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^8 + T^7 + T^6 + T^5 + T^4 + T^3 + 1,8,85,15,12,11,strict structural audit and two-run certificates,results/q2_degree8_compact/characteristics.csv
+2,T^9 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^4 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^4 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^4 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^5 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^5 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^5 + T^4 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^4 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^4 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^6 + T^5 + T^4 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^2 + T + 1,9,171,20,14,13,independent exact certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T^4 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^5 + T^4 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^4 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^4 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^5 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^7 + T^6 + T^5 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^4 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^4 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^5 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^5 + T^4 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^5 + T^4 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^4 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + T^4 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^6 + T^5 + T^4 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^3 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^5 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^5 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^5 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^2 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^3 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^3 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^4 + T^2 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^4 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^5 + T + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^5 + T^3 + 1,9,171,20,16,15,primary + replay certificate,results/q2_degree9_e_only/characteristics_summary.csv
+2,T^9 + T^8 + T^7 + T^6 + T^5 + T^4 + T^3 + T + 1,9,171,20,14,13,independent exact certificate,results/q2_degree9_e_only/characteristics_summary.csv
+3,T,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+3,T + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+3,T + 2,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+3,T^2 + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+3,T^2 + 2*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+3,T^2 + T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+3,T^3 + 2*T + 1,3,4,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^3 + 2*T + 2,3,4,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^3 + 2*T^2 + 1,3,4,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^3 + 2*T^2 + 2*T + 2,3,4,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^3 + 2*T^2 + T + 1,3,4,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^3 + T^2 + 2,3,4,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^3 + T^2 + 2*T + 1,3,4,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^3 + T^2 + T + 2,3,4,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + 2*T + 2,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + 2*T^2 + 2,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + 2*T^3 + 2,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + 2*T^3 + 2*T^2 + T + 2,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + 2*T^3 + T + 1,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + 2*T^3 + T^2 + 1,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + 2*T^3 + T^2 + 2*T + 1,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + 2*T^3 + T^2 + T + 2,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T + 2,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^2 + 2,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^2 + 2*T + 1,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^2 + T + 1,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^3 + 2,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^3 + 2*T + 1,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^3 + 2*T^2 + 2*T + 2,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^3 + T^2 + 1,4,10,6,5,4,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^3 + T^2 + 2*T + 2,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^4 + T^3 + T^2 + T + 1,4,10,6,4,3,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^2 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^3 + 2*T^2 + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^3 + 2*T^2 + 2*T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^3 + 2*T^2 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^3 + T^2 + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^3 + T^2 + 2*T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^3 + T^2 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^2 + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^2 + 2*T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^2 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^3 + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^3 + 2*T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^3 + 2*T^2 + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^3 + 2*T^2 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^3 + T^2 + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + 2*T^3 + T^2 + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + T^3 + 2*T^2 + 2*T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + T^3 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + T^3 + T^2 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + 2*T^4 + T^3 + T^2 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^2 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^3 + 2*T^2 + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^3 + 2*T^2 + 2*T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^3 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^3 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^3 + T^2 + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^3 + T^2 + 2*T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + 2*T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + 2*T^3 + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + 2*T^3 + 2*T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + 2*T^3 + 2*T^2 + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + 2*T^3 + 2*T^2 + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + 2*T^3 + T^2 + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + 2*T^3 + T^2 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + T^2 + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + T^2 + 2*T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + T^2 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + T^3 + 2*T^2 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + T^3 + 2*T^2 + T + 2,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + T^3 + T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+3,T^5 + T^4 + T^3 + T^2 + 2*T + 1,5,31,10,8,7,strict family audit,results/detailed/characteristics.csv
+4,T,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T + a,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T + a + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T^2 + (a + 1)*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T^2 + (a + 1)*T + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T^2 + T + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T^2 + T + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T^2 + a*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T^2 + a*T + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+4,T^3 + (a + 1)*T + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + (a + 1)*T^2 + (a + 1)*T + a + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + (a + 1)*T^2 + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + (a + 1)*T^2 + T + a,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + (a + 1)*T^2 + a*T + a,3,5,6,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^3 + (a + 1)*T^2 + a*T + a + 1,3,5,6,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^3 + T + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + T^2 + (a + 1)*T + a,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + T^2 + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + T^2 + T + a,3,5,6,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^3 + T^2 + T + a + 1,3,5,6,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^3 + T^2 + a*T + a + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + a,3,5,6,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^3 + a + 1,3,5,6,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^3 + a*T + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + a*T^2 + (a + 1)*T + a,3,5,6,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^3 + a*T^2 + (a + 1)*T + a + 1,3,5,6,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^3 + a*T^2 + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + a*T^2 + T + a + 1,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^3 + a*T^2 + a*T + a,3,5,6,6,5,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^2 + (a + 1)*T + a,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^2 + (a + 1)*T + a + 1,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^2 + a*T + 1,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^2 + a*T + a,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + (a + 1)*T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + (a + 1)*T^2 + T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + (a + 1)*T^2 + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + (a + 1)*T^2 + a*T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + (a + 1)*T^2 + a*T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + T^2 + (a + 1)*T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + T^2 + (a + 1)*T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + T^2 + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + T^2 + T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + a*T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + a*T^2 + (a + 1)*T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + a*T^2 + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + a*T^2 + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + (a + 1)*T^3 + a*T^2 + a*T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^2 + (a + 1)*T + 1,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^2 + (a + 1)*T + a,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^2 + a*T + 1,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^2 + a*T + a + 1,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + (a + 1)*T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + (a + 1)*T^2 + (a + 1)*T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + (a + 1)*T^2 + (a + 1)*T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + (a + 1)*T^2 + T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + (a + 1)*T^2 + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + T^2 + (a + 1)*T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + T^2 + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + T^2 + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + T^2 + a*T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + a*T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + a*T^2 + T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + a*T^2 + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + a*T^2 + a*T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + T^3 + a*T^2 + a*T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^2 + (a + 1)*T + 1,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^2 + (a + 1)*T + a + 1,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^2 + a*T + a,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^2 + a*T + a + 1,4,17,5,4,3,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + (a + 1)*T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + (a + 1)*T^2 + (a + 1)*T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + (a + 1)*T^2 + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + (a + 1)*T^2 + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + (a + 1)*T^2 + a*T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + T^2 + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + T^2 + T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + T^2 + a*T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + T^2 + a*T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + a*T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + a*T^2 + (a + 1)*T + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + a*T^2 + (a + 1)*T + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + a*T^2 + T + a,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+4,T^4 + a*T^3 + a*T^2 + a + 1,4,17,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T + 2,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T + 3,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T + 4,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + 2*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + 2*T + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + 3*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + 3*T + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + 4*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + 4*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^2 + T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T^2 + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T^2 + 2*T + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T^2 + 2*T + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T^2 + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T^2 + 4*T + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T^2 + 4*T + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T^2 + T + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 2*T^2 + T + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T^2 + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T^2 + 2*T + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T^2 + 2*T + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T^2 + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T^2 + 4*T + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T^2 + 4*T + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T^2 + T + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 3*T^2 + T + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T^2 + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T^2 + 3*T + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T^2 + 3*T + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T^2 + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T^2 + 4*T + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T^2 + 4*T + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T^2 + T + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + 4*T^2 + T + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T^2 + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T^2 + 2,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T^2 + 3*T + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T^2 + 3*T + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T^2 + 4*T + 1,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T^2 + 4*T + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T^2 + T + 3,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^3 + T^2 + T + 4,3,6,6,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^2 + 2*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^2 + 2*T + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^2 + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^2 + 3*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^2 + 3*T + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 2*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 2*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 2*T^2 + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 2*T^2 + 2*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 2*T^2 + 2*T + 4,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 2*T^2 + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 2*T^2 + T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 3*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 3*T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 3*T^2 + 2*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 3*T^2 + 3*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 3*T^2 + 3*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 3*T^2 + 4*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 3*T^2 + T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 3*T^2 + T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 4*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 4*T^2 + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 4*T^2 + 2*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 4*T^2 + 3*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 4*T^2 + 3*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 4*T^2 + 4*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + 4*T^2 + T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + T^2 + 2*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + T^2 + 2*T + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + T^2 + 3*T + 1,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 2*T^3 + T^2 + 3*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^2 + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^2 + 4*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^2 + 4*T + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^2 + T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^2 + T + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 2*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 2*T^2 + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 2*T^2 + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 2*T^2 + 3*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 2*T^2 + 3*T + 4,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 2*T^2 + 4*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T^2 + 2*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T^2 + 2*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T^2 + 3*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T^2 + 4*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T^2 + 4*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 3*T^2 + T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4*T^2 + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4*T^2 + 2*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4*T^2 + 2*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4*T^2 + 3*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4*T^2 + 4*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + 4*T^2 + T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + T^2 + 2*T + 1,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + T^2 + 2*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + T^2 + 3*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 3*T^3 + T^2 + 3*T + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^2 + 2*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^2 + 3*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^2 + 4*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^2 + 4*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^2 + T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^2 + T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 2*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 2*T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 2*T^2 + 2*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 2*T^2 + 3*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 2*T^2 + 3*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 2*T^2 + 4*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 2*T^2 + 4*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 2*T^2 + T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 3*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 3*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 3*T^2 + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 3*T^2 + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 3*T^2 + 3*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 3*T^2 + T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 3*T^2 + T + 4,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 4*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 4*T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 4*T^2 + 4*T + 1,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 4*T^2 + 4*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 4*T^2 + T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + 4*T^2 + T + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + T^2 + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + T^2 + 2*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + T^2 + 3*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + T^2 + 4*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + T^2 + 4*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + 4*T^3 + T^2 + T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^2 + 2*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^2 + 2*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^2 + 3*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^2 + 3*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^2 + 4*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^2 + T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T^2 + 2*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T^2 + 2*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T^2 + 3*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T^2 + 4*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T^2 + T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 2*T^2 + T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 3*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 3*T^2 + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 3*T^2 + 2*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 3*T^2 + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 3*T^2 + 4*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 3*T^2 + 4*T + 4,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 4*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 4*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 4*T^2 + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 4*T^2 + 4*T + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 4*T^2 + 4*T + 3,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 4*T^2 + T + 1,4,26,5,5,4,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + 4*T^2 + T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + T^2 + 1,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + T^2 + 2*T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + T^2 + 3*T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + T^2 + 4*T + 2,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + T^2 + T + 3,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+5,T^4 + T^3 + T^2 + T + 4,4,26,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T + 2,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T + 3,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T + 4,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T + 5,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T + 6,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 2*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 2*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 2*T + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 3*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 3*T + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 3*T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 4*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 4*T + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 4*T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 5*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 5*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 5*T + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 6*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 6*T + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + 6*T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + T + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^2 + T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 2*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 2*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 3*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 3*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 4*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 4*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 5*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 5*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 6*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 6*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 6*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + 6*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 2*T^2 + T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 2*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 2*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 3*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 3*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 3*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 3*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 4*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 4*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 5*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 5*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 6*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + 6*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 3*T^2 + T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 2*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 2*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 3*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 3*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 3*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 3*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 4*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 4*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 5*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 5*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 6*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + 6*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 4*T^2 + T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 2*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 2*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 3*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 3*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 4*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 4*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 5*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 5*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 6*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 6*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 6*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + 6*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 5*T^2 + T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 2*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 2*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 3*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 3*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 4*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 4*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 5*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 5*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 5*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 5*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 6*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + 6*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + 6*T^2 + T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 2*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 2*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 3*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 3*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 4*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 4*T + 6,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 5*T + 1,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 5*T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 5*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 5*T + 4,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 6*T + 3,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + 6*T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + T + 2,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+7,T^3 + T^2 + T + 5,3,8,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T + a,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T + a + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T + a^2,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T + a^2 + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T + a^2 + a,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T + a^2 + a + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a + 1)*T + a^2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a + 1)*T + a^2 + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a + 1)*T + a^2 + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a + 1)*T + a^2 + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + 1)*T + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + 1)*T + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + 1)*T + a^2 + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + 1)*T + a^2 + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + a + 1)*T + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + a + 1)*T + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + a + 1)*T + a^2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + a + 1)*T + a^2 + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + a)*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + a)*T + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + a)*T + a^2 + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + (a^2 + a)*T + a^2 + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + T + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + T + a^2 + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + T + a^2 + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + a*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + a*T + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + a*T + a^2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + a*T + a^2 + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + a^2*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + a^2*T + a + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + a^2*T + a^2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^2 + a^2*T + a^2 + a,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a^2 + a + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a^2 + a + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a^2 + a + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a^2 + a)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a^2 + a)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + (a^2 + a)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a^2*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a^2*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a + 1)*T^2 + a^2*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + a)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + a)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + (a^2 + a)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a^2*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a^2*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + 1)*T^2 + a^2*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + (a^2 + a)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a^2*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a^2*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a + 1)*T^2 + a^2*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + 1)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a + 1)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + (a^2 + a)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + a^2*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + a^2*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + (a^2 + a)*T^2 + a^2*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + a + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + a + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + a + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + a)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + a)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + (a^2 + a)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a^2*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a^2*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + T^2 + a^2*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a + 1)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + a + 1)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + a + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + a + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + a)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + a)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + (a^2 + a)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + a*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + a*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + a*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a*T^2 + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a + 1)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a + 1)*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a + 1)*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a^2 + 1)*T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a^2 + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a^2 + 1)*T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a^2 + a + 1)*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a^2 + a + 1)*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + (a^2 + a + 1)*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + T + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + T + a^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + a*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + a*T + a^2,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + a*T + a^2 + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + a^2*T + a,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + a^2*T + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+8,T^3 + a^2*T^2 + a^2*T + a^2 + a + 1,3,9,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 1,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 10,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 2,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 3,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 4,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 5,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 6,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 7,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 8,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T + 9,1,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 10*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 10*T + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 10*T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 10*T + 7,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 10*T + 8,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 2*T + 10,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 2*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 2*T + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 2*T + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 2*T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 3*T + 10,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 3*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 3*T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 3*T + 8,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 3*T + 9,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 4*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 4*T + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 4*T + 7,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 4*T + 8,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 4*T + 9,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 5*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 5*T + 10,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 5*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 5*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 5*T + 7,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 6*T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 6*T + 10,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 6*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 6*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 6*T + 7,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 7*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 7*T + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 7*T + 7,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 7*T + 8,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 7*T + 9,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 8*T + 10,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 8*T + 3,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 8*T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 8*T + 8,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 8*T + 9,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 9,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 9*T + 10,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 9*T + 2,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 9*T + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 9*T + 5,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + 9*T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + T + 1,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + T + 4,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + T + 6,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + T + 7,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^2 + T + 8,2,1,1,1,,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 10*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 10*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 10*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 10*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 2*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 2*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 2*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 2*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 3*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 3*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 3*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 3*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 5*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 5*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 5*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 5*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 6*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 6*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 6*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 6*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 7*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 7*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 7*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 7*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 8*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 8*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 8*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 8*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 9*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 9*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 9*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + 9*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 10*T^2 + T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 10*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 10*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 10*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 10*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 2*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 2*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 2*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 2*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 3*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 3*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 3*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 3*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 4*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 4*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 4*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 4*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 6*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 6*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 6*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 6*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 7*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 7*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 7*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 7*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 8*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 8*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 8*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 8*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 9*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 9*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 9*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + 9*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 2*T^2 + T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 10*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 10*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 10*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 10*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 2*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 2*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 2*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 2*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 4*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 4*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 4*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 4*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 5*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 5*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 5*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 5*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 6*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 6*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 6*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 6*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 7*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 7*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 7*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 7*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 8*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 8*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 8*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 8*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 9*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 9*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 9*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + 9*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 3*T^2 + T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 10*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 10*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 10*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 10*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 2*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 2*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 2*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 2*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 3*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 3*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 3*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 3*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 4*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 4*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 4*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 4*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 5*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 5*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 5*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 5*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 6*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 6*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 6*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 6*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 7*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 7*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 7*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 7*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 8*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 8*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 8*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + 8*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 4*T^2 + T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 10*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 10*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 10*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 10*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 2*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 2*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 2*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 2*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 3*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 3*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 3*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 3*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 4*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 4*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 4*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 4*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 5*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 5*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 5*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 5*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 6*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 6*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 6*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 6*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 7*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 7*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 7*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 7*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 8*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 8*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 8*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 8*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 9*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 9*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 9*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 5*T^2 + 9*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 10*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 10*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 10*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 10*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 2*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 2*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 2*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 2*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 3*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 3*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 3*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 3*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 4*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 4*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 4*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 4*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 5*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 5*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 5*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 5*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 6*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 6*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 6*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 6*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 7*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 7*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 7*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 7*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 8*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 8*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 8*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 8*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 9*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 9*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 9*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 6*T^2 + 9*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 10*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 10*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 10*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 10*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 2*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 2*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 2*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 2*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 3*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 3*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 3*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 3*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 4*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 4*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 4*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 4*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 5*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 5*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 5*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 5*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 6*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 6*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 6*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 6*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 7*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 7*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 7*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 7*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 8*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 8*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 8*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + 8*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 7*T^2 + T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 10*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 10*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 10*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 10*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 2*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 2*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 2*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 2*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 4*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 4*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 4*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 4*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 5*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 5*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 5*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 5*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 6*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 6*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 6*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 6*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 7*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 7*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 7*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 7*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 8*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 8*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 8*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 8*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 9*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 9*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 9*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + 9*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 8*T^2 + T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 10*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 10*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 10*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 10*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 2*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 2*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 2*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 2*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 3*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 3*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 3*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 3*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 4*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 4*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 4*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 4*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 6*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 6*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 6*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 6*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 7*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 7*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 7*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 7*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 8*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 8*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 8*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 8*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 9*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 9*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 9*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + 9*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + 9*T^2 + T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 10*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 10*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 10*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 10*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 2*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 2*T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 2*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 2*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 3*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 3*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 3*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 3*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 5*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 5*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 5*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 5*T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 6*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 6*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 6*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 6*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 7*T + 1,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 7*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 7*T + 5,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 7*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 8*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 8*T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 8*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 8*T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 9*T + 10,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 9*T + 4,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 9*T + 6,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + 9*T + 8,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + T + 2,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + T + 3,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + T + 7,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
+11,T^3 + T^2 + T + 9,3,12,5,4,3,strict family audit,results/detailed/characteristics.csv
