@@ -21,8 +21,8 @@ where the maximum of the empty set is zero. Equivalently,
 supersingular isogeny graph in characteristic \(\mathfrak p\) is complete.
 
 All decisions are made with exact finite-field and integer arithmetic. The
-program checks every prime level below the proven cutoff
-\(U(\mathfrak p)\); the theorem in the forthcoming paper covers all larger
+program checks every prime level below the proven upper bound
+\(U(\mathfrak p)\); the theorem in the paper covers all larger
 degrees.
 
 ## Data
