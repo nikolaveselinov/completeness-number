@@ -1,8 +1,7 @@
 # Completeness numbers for supersingular Drinfeld isogeny graphs
 
-This repository is the computational supplement to the forthcoming paper
-*On Supersingular Isogeny Graphs of Drinfeld Modules*. A preprint will appear
-on arXiv shortly.
+This repository is the computational supplement to
+[*On Supersingular Isogeny Graphs of Drinfeld Modules*](https://arxiv.org/abs/2608.29812).
 It contains the SageMath implementation and data used to compute completeness numbers for supersingular
 rank-two Drinfeld modules over \(A=\mathbf F_q[T]\).
 
