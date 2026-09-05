@@ -5,7 +5,7 @@ This repository is the computational supplement to
 It contains the SageMath implementation and data used to compute completeness numbers for supersingular
 rank-two Drinfeld modules over $A=\mathbb F_q[T]$.
 
-For a finite characteristic $\mathfrak p$, the completeness number $E(\mathfrak p)$ is the least integer such that the supersingular isogeny graph in characteristic $\mathfrak p$ is complete for every prime $\mathfrak q\ne\mathfrak p$ with $\operatorname{deg}\mathfrak q\ge E(\mathfrak p)$.
+For a finite characteristic $\mathfrak p$, the completeness number $E(\mathfrak p)$ is the least integer such that the supersingular isogeny graph in characteristic $\mathfrak p$ is complete for every prime $\mathfrak q\ne\mathfrak p$ with $\deg\mathfrak q\ge E(\mathfrak p)$.
 
 All decisions are made with exact finite-field and integer arithmetic. The
 program checks every prime level below the proven upper bound
@@ -17,7 +17,7 @@ degrees.
 The canonical table is
 [`results/census/completeness_numbers.csv`](results/census/completeness_numbers.csv).
 It contains 1,352 characteristics in 31 complete
-$(q,\operatorname{deg}\mathfrak p)$-families:
+$(q,\deg\mathfrak p)$-families:
 
 | $q$ | degrees of $\mathfrak p$ | characteristics |
 |---:|---:|---:|
