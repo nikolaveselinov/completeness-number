@@ -3,25 +3,13 @@
 This repository is the computational supplement to
 [*On Supersingular Isogeny Graphs of Drinfeld Modules*](https://arxiv.org/abs/2608.29812).
 It contains the SageMath implementation and data used to compute completeness numbers for supersingular
-rank-two Drinfeld modules over \(A=\mathbf F_q[T]\).
+rank-two Drinfeld modules over $A=\mathbb F_q[T]$.
 
-For a finite characteristic \(\mathfrak p\), let
-\(B_{\mathfrak p}(\mathfrak l)\) denote the Brandt matrix at the prime level
-\(\mathfrak l\ne\mathfrak p\). The completeness number is
-
-\[
-E(\mathfrak p)
-=1+\max\left\{\deg\mathfrak l:
-B_{\mathfrak p}(\mathfrak l)\ \text{has a zero entry}\right\},
-\]
-
-where the maximum of the empty set is zero. Equivalently,
-\(E(\mathfrak p)\) is the least degree from which every prime-level
-supersingular isogeny graph in characteristic \(\mathfrak p\) is complete.
+For a finite characteristic $\mathfrak p$, the completeness number $E(\mathfrak p)$ is the least integer such that the supersingular isogeny graph in characteristic $\mathfrak p$ is complete for every prime $\mathfrak q\ne\mathfrak p$ with $\operatorname{deg}\mathfrak q\ge E(\mathfrak p)$.
 
 All decisions are made with exact finite-field and integer arithmetic. The
 program checks every prime level below the proven upper bound
-\(U(\mathfrak p)\); the theorem in the paper covers all larger
+$U(\mathfrak p)$; the theorem in the paper covers all larger
 degrees.
 
 ## Data
@@ -29,9 +17,9 @@ degrees.
 The canonical table is
 [`results/census/completeness_numbers.csv`](results/census/completeness_numbers.csv).
 It contains 1,352 characteristics in 31 complete
-\((q,\deg\mathfrak p)\)-families:
+$(q,\operatorname{deg}\mathfrak p)$-families:
 
-| \(q\) | degrees of \(\mathfrak p\) | characteristics |
+| $q$ | degrees of $\mathfrak p$ | characteristics |
 |---:|---:|---:|
 | 2 | 1–9 | 127 |
 | 3 | 1–5 | 80 |
@@ -74,7 +62,7 @@ For example:
 ```
 
 The output records the supersingular vertices, the cutoff
-\(U(\mathfrak p)\), the exact value \(E(\mathfrak p)\), every prime level
+$U(\mathfrak p)$, the exact value $E(\mathfrak p)$, every prime level
 below the cutoff, and the evidence for each Brandt entry. Omitting
 `--full-matrices` permits exact pair-specific spectral positivity
 certificates at the higher levels.
