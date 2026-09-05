@@ -130,7 +130,7 @@ For each ordered pair \((i,j)\) and required degree bound \(m\), Sage
 constructs a complete \(\mathbf F_q\)-basis of
 
 \[
-\{u\in\operatorname{Hom}(\phi_i,\phi_j):\deg_\tau u\le m\}.
+\{u\in\mathrm{Hom}(\phi_i,\phi_j):\deg_\tau u\le m\}.
 \]
 
 Every vector in this finite space is exhausted.  The reduced norm is the
@@ -140,8 +140,8 @@ the vectors are grouped by their exact norm in \(\mathbf F_q[T]\).  Definition
 
 \[
 b_{ij}(\ell)=
-\frac{\#\{u\in\operatorname{Hom}(\phi_i,\phi_j):N(u)=(\ell)\}}
-     {|\operatorname{Aut}(\phi_j)|}.
+\frac{\#\{u\in\mathrm{Hom}(\phi_i,\phi_j):N(u)=(\ell)\}}
+     {|\mathrm{Aut}(\phi_j)|}.
 \]
 
 The implementation checks that every numerator is divisible by the target
@@ -186,7 +186,7 @@ Set
 
 \[
 M=\frac{q^d-1}{q^2-1},\qquad
-w_i=\frac{|\operatorname{Aut}(\phi_i)|}{q-1},\qquad
+w_i=\frac{|\mathrm{Aut}(\phi_i)|}{q-1},\qquad
 C_{ij}^2=(w_iM-1)(w_jM-1).
 \]
 
